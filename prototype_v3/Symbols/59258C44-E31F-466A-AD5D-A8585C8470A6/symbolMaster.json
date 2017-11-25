@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 6393,
+  "changeIdentifier": 8672,
   "do_objectID": "59258C44-E31F-466A-AD5D-A8585C8470A6",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,11 +23,11 @@
     "constrainProportions": false,
     "height": 72,
     "width": 584,
-    "x": 3752,
-    "y": -59
+    "x": 776,
+    "y": 724
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -44,8 +44,16 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "text",
-      "id": "E74191A5-BC2F-47F0-BD79-305354BA0675"
+      "class": "symbolInstance",
+      "id": "748E0C52-1460-435E-AFCF-EED196C6727B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F0350614-C316-4673-BDC8-D0FE9600F690"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F01A2FC1-A205-4C0C-9766-10BDFF754B74"
     },
     {
       "class": "text",
@@ -56,8 +64,12 @@
       "id": "477E95CF-0AD0-493B-ACD9-65E4A1DD0DB4"
     },
     {
-      "class": "group",
-      "id": "E747631A-E831-41B7-A034-55BC52BAC4DF"
+      "class": "shapeGroup",
+      "id": "2D9FC3F5-9BEF-4EA7-A6C6-886C03F58510"
+    },
+    {
+      "class": "bitmap",
+      "id": "2331EB4C-4F9D-4B35-9EFA-A0DA2FAEB35A"
     }
   ],
   "name": "activityTop",

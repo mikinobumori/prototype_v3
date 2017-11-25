@@ -24,12 +24,26 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxXPadding": 6,
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "activityTitle",
   "nameIsFixed": false,
+  "overrides": {
+    "477E95CF-0AD0-493B-ACD9-65E4A1DD0DB4": "from Kelly's profile",
+    "5873CD56-0DA0-4E46-B7AA-5012295FC45E": "Penha D'aguia",
+    "748E0C52-1460-435E-AFCF-EED196C6727B": {
+      "symbolID": ""
+    },
+    "F01A2FC1-A205-4C0C-9766-10BDFF754B74": {
+      "A345CD37-A554-4FC7-A2E6-3064B1E002BF": "Cafe",
+      "symbolID": "9B562CE8-D159-4474-8E20-D49142F5D5AE"
+    },
+    "F0350614-C316-4673-BDC8-D0FE9600F690": {
+      "symbolID": ""
+    }
+  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
