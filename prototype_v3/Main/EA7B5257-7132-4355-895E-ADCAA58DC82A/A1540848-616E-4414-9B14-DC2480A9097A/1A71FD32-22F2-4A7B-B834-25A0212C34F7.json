@@ -1,0 +1,46 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "1A71FD32-22F2-4A7B-B834-25A0212C34F7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 248,
+    "width": 248,
+    "x": 1040,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "activityCard Copy 4",
+  "nameIsFixed": false,
+  "originalObjectID": "8FB80139-70A1-4C75-A82D-E56DF279843D",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "73DDA552-3F9B-42AC-8779-1F5F77A0FE5B",
+  "verticalSpacing": 0
+}

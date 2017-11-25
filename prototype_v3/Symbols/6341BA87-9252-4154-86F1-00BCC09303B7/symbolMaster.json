@@ -1,0 +1,96 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 13004,
+  "do_objectID": "6341BA87-9252-4154-86F1-00BCC09303B7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 16,
+    "width": 16,
+    "x": 2794,
+    "y": 76
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7F3CED1F-43F4-4F2F-8BBB-B948ABE390BF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ED2E79E3-56ED-4699-B848-A320BB016576"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0FBD84BD-B9E3-41D1-B466-F565814ECF1A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F32517B3-971B-4AD4-AF5A-F4F57ADD4F84"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BE443C5A-943D-444C-BF8B-83F84CFEF330"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9BCC7560-F54B-47B8-8935-5B39E8E3CFD3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "197A33BB-1F6A-4CC0-8044-188FD8225CB7"
+    }
+  ],
+  "name": "ic_bus",
+  "nameIsFixed": true,
+  "originalObjectID": "6341BA87-9252-4154-86F1-00BCC09303B7",
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8ECD0420-1BE9-49F0-B94D-5D80AD3373FC",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

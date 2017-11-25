@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "0DA4530C-1CFA-4151-BE3C-9BEEFB89B22D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 248,
+    "width": 248,
+    "x": 646,
+    "y": 370
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "hostCard",
+  "nameIsFixed": true,
+  "originalObjectID": "9EEE9205-F813-4B77-8250-3A77BD320644",
+  "overrides": {
+    "33C61A4D-A16A-4973-AF9E-28FEFD6BAD97": "Receptionist",
+    "3BBF183A-0132-415D-BFB5-DC6FD68341B0": "Laura",
+    "9F9874A5-5C3C-4166-BB59-375FBD79BBAB": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/ec1b141e406e068e5476619958b1a1910b0fe3ac",
+      "_ref_class": "MSImageData"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "0DF97DF4-70AA-43D3-8BFB-84C115C472BB",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "163F44F2-3152-4A59-A8D6-BB5D5E6155D0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 240,
+    "width": 824,
+    "x": 48,
+    "y": 308
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 3,
+  "name": "welcomeBlurb",
+  "nameIsFixed": false,
+  "originalObjectID": "152C8D55-9BD0-4C28-B051-0B5AD4B4E566",
+  "overrides": {
+    "671EA44A-761C-41B0-82CD-E1E625A84444": "Browse",
+    "6CE2B75B-17E6-4408-887E-EDE71A973E9A": "Explore recommendations based on your personal preferences."
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "686AB487-0F37-461B-B668-6729C16D9A42",
+  "verticalSpacing": 0
+}
