@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 376,
+    "height": 374,
     "width": 200,
     "x": 24,
     "y": 528
@@ -32,12 +32,14 @@
   "nameIsFixed": false,
   "originalObjectID": "F749D142-D645-4DAE-916D-C1D4C89BC0FC",
   "overrides": {
-    "29D7526B-9692-4A92-B76A-EADDB26C8022": "Portuguese, English",
+    "0F48199C-B475-46E4-9F92-EB528DA4DB01": "Visiting the town of Camara de Lobos and drinking a fisherman’s poncha.",
+    "2098D469-6E8F-4392-B52C-75A1A454F658": "Portuguese, German, English",
+    "29D7526B-9692-4A92-B76A-EADDB26C8022": "A memorable day I’ve had on Madeira is the day I toured the island of Madeira and passed through Porto Moniz, Curral das Freiras, Pico do Areeiro ... it was memorable because the scenery is breathtaking",
     "2AD60821-7F91-4120-8DC1-96EAADA2ABE5": "Camara de Lobos",
     "53E1EA30-FA87-4C99-8055-011185B1524B": "more than 10 years",
     "961B0570-C470-4B4C-844A-1C550F953426": "Drink coffee, listen to music, and spend time with animals (especially cats!)",
     "AE0D2056-CDCE-45A5-ABFF-4B7923114F3F": "I'm 20 years old and less than 1.5m tall.",
-    "CA1F6646-28C2-4A92-98C8-557602E95F7F": "Receptionist",
+    "CA1F6646-28C2-4A92-98C8-557602E95F7F": "I collect gemstones and sugar packets",
     "E3FCF550-CA53-4FF1-95AA-A9985CECBA99": "The weather!"
   },
   "resizingConstraint": 63,
@@ -51,5 +53,10 @@
     "startDecorationType": 0
   },
   "symbolID": "0C58ACD3-A0FC-41F1-B59D-1F279B9EFDA9",
+  "userInfo": {
+    "com.invisionlabs.data": {
+      "json-plugin-data": "{\"name\":\"staffProfiles.json\",\"paths\":{\"selection\":[\"data\"],\"repeat\":[\"Languages\"]},\"path\":\"AAC8EB91-823D-4FC5-8C15-B3EC064FBFEB.json\"}"
+    }
+  },
   "verticalSpacing": 0
 }

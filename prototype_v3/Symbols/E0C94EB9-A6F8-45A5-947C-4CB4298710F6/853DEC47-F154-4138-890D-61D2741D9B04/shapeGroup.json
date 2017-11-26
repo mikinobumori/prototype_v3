@@ -67,7 +67,7 @@
           "green": 0.847,
           "red": 0.847
         },
-        "fillType": 0,
+        "fillType": 4,
         "isEnabled": false,
         "noiseIndex": 0,
         "noiseIntensity": 0,

@@ -20,7 +20,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 2414,
+    "height": 2224,
     "width": 1280,
     "x": 1380,
     "y": 2400
@@ -44,14 +44,6 @@
     {
       "class": "shapeGroup",
       "id": "7AE6840E-6887-42E5-9339-2C1F63C5819E"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "885266F4-C882-4981-B518-26B72663F060"
-    },
-    {
-      "class": "text",
-      "id": "1E4538B3-91CA-496F-BA18-93780F6B0AD5"
     },
     {
       "class": "symbolInstance",

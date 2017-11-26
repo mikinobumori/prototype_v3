@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "3EA1AB3D-F66C-496B-B850-B595190EB113",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 374,
+    "width": 200,
+    "x": 24,
+    "y": 528
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "profileAboutList",
+  "nameIsFixed": false,
+  "originalObjectID": "F749D142-D645-4DAE-916D-C1D4C89BC0FC",
+  "overrides": {
+    "0F48199C-B475-46E4-9F92-EB528DA4DB01": "Without going to Pico do Areeiro to see the clouds under you and the stars above you",
+    "2098D469-6E8F-4392-B52C-75A1A454F658": "Portuguese, German, English",
+    "29D7526B-9692-4A92-B76A-EADDB26C8022": "One Sunday, in June, I woke up early in the morning and went to Paul da Serra to do the Cedros levada walk with my boyfriend. It is one of the prettiest levadas in Madeira. There, people can appreciate nature to the fullest. I love being surroiunded by the endemic species of flora and fauna of my island.\nAt night, we went to Funchal to see the fireworks of the Atlantic Festival. Needless to say, that it was full of colour. Just wonderful!",
+    "2AD60821-7F91-4120-8DC1-96EAADA2ABE5": "Funchal",
+    "53E1EA30-FA87-4C99-8055-011185B1524B": "I was born",
+    "961B0570-C470-4B4C-844A-1C550F953426": "read a book, do a levada walk, bake, photograph, travel, geocaching",
+    "AE0D2056-CDCE-45A5-ABFF-4B7923114F3F": "I collect gemstones and sugar packets",
+    "CA1F6646-28C2-4A92-98C8-557602E95F7F": "Receptionist",
+    "E3FCF550-CA53-4FF1-95AA-A9985CECBA99": "The nature"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "0C58ACD3-A0FC-41F1-B59D-1F279B9EFDA9",
+  "userInfo": {
+    "com.invisionlabs.data": {
+      "json-plugin-data": "{\"name\":\"staffProfiles.json\",\"paths\":{\"selection\":[\"data\"],\"repeat\":[\"Memorable\"]},\"path\":\"AAC8EB91-823D-4FC5-8C15-B3EC064FBFEB.json\"}"
+    }
+  },
+  "verticalSpacing": 0
+}

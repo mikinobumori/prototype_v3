@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C2F334AA-40B2-4FC6-9EBD-D35F8CCA2F6A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 139,
+    "width": 600,
+    "x": 248,
+    "y": 1709
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 1,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "profileActivity",
+  "nameIsFixed": false,
+  "overrides": {
+    "47E112DE-37BD-448C-A6DD-DDC52E78001F": "I love to drink coffee so I would recommend guests to go to my favourite coffee shop in Funchal, Penha D'Aguia. I recommend this coffeeshop because their coffee is amazing and very affordable.",
+    "CC4B15D8-5F6D-4577-A0CC-E88531DA81EF": "Penha D'aguia",
+    "D1FB0085-54FF-4801-A58C-C432D67A9CEE": "Cafe"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2A030A17-6CC2-4F9F-8865-53C4B3E37F8A",
+  "verticalSpacing": 0
+}

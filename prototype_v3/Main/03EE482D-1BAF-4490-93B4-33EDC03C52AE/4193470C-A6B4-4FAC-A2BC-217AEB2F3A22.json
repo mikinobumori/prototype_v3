@@ -32,7 +32,19 @@
   "nameIsFixed": false,
   "overrides": {
     "47E112DE-37BD-448C-A6DD-DDC52E78001F": "I love to drink coffee so I would recommend guests to go to my favourite coffee shop in Funchal, Penha D'Aguia. I recommend this coffeeshop because their coffee is amazing and very affordable.",
-    "CC4B15D8-5F6D-4577-A0CC-E88531DA81EF": "Penha D'aguia",
+    "79EECF8E-06B7-490E-86B6-768ECEF4D780": {
+      "853DEC47-F154-4138-890D-61D2741D9B04": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/da0a48b759a839f058ba2cdb28d193df4af7bf5f",
+        "_ref_class": "MSImageData"
+      }
+    },
+    "7D7609C6-B994-4AB8-B9E1-49B31064E3A1": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/8814ec06165ebc567be13f54a90546d10e8a1c32",
+      "_ref_class": "MSImageData"
+    },
+    "CC4B15D8-5F6D-4577-A0CC-E88531DA81EF": "Penha D'Aguia",
     "D1FB0085-54FF-4801-A58C-C432D67A9CEE": "Cafe"
   },
   "resizingConstraint": 63,

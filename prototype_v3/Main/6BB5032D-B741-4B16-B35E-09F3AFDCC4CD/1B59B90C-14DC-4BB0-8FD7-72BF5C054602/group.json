@@ -14,7 +14,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 86,
-    "width": 1234,
+    "width": 1232,
     "x": 24,
     "y": 260
   },
@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
@@ -34,7 +34,7 @@
       "id": "D97FCFCA-9FDD-4A0F-8A85-C0243E2179A6"
     }
   ],
-  "name": "RecText",
+  "name": "HostText",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
