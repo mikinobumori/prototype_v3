@@ -31,6 +31,9 @@
   "name": "listActivity",
   "nameIsFixed": false,
   "overrides": {
+    "64FBC6C7-2DA9-4F66-8B55-EFCF0D13460C": {
+      "symbolID": ""
+    },
     "FD94EC77-6791-4CD3-9F14-6DAD2A5801D0": "2"
   },
   "resizingConstraint": 63,

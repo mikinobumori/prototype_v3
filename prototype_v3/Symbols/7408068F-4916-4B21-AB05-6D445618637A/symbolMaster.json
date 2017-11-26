@@ -1,5 +1,5 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -7,7 +7,8 @@
     "green": 1,
     "red": 1
   },
-  "do_objectID": "A1BC8893-8E5B-4747-B3DE-6AE7FE6FE118",
+  "changeIdentifier": 12050,
+  "do_objectID": "7408068F-4916-4B21-AB05-6D445618637A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -20,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 296,
-    "width": 532,
-    "x": 1380,
-    "y": 7271
+    "height": 16,
+    "width": 16,
+    "x": 1918,
+    "y": 76
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -34,6 +35,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -42,32 +44,13 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "5D2A736B-CE39-436E-AC65-2836C9BE105B"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "C8528DC1-1303-4AD3-9177-6C2C30036EA9"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "BC618E95-7C76-4E4A-BA2C-DBF11067B73A"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "8FA20C23-21C2-43DA-824A-EAEBF6766973"
-    },
-    {
-      "class": "text",
-      "id": "3DEC798C-D38F-471D-9483-B87B591C4CA4"
-    },
-    {
-      "class": "text",
-      "id": "2263B07C-0B3A-45FB-B076-90AA04C26B3D"
+      "class": "group",
+      "id": "0CE74DD8-EA98-4286-8569-3B0B4C0CA4F8"
     }
   ],
-  "name": "ListEmail",
+  "name": "ic_food",
   "nameIsFixed": true,
+  "originalObjectID": "E0339399-AC2D-4FA5-ACF8-9E57A6EFEFA7",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -79,6 +62,7 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
+  "symbolID": "6515EF8E-F2CA-457D-B210-7AB1D2B4565B",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
