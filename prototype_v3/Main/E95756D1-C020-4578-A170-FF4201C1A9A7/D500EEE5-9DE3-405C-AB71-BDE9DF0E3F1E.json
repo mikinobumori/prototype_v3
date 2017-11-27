@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 288,
+    "height": 335,
     "width": 192,
     "x": 33,
     "y": 236
@@ -33,14 +33,14 @@
   "originalObjectID": "7F51C6A2-27B8-4A54-9352-78C4AB62A672",
   "overrides": {
     "226BC0BD-731E-4246-AC9F-B272B8076567": {
-      "symbolID": ""
+      "symbolID": "28966645-41EB-4C1E-BF38-42DE2E481221"
     },
     "372C365E-14F0-4943-B788-A59963FC3C07": {
-      "symbolID": ""
+      "symbolID": "FAB9074D-9EF9-416D-92CA-5AF749ADF61D"
     },
     "4B825923-9017-4CDF-BB46-E92E2EF89181": " ",
     "90503107-6155-4B9E-A42D-A96995D029C8": {
-      "symbolID": ""
+      "symbolID": "2902D65C-6028-4613-B357-DA364FDB740C"
     },
     "D83C9EC8-3191-48D4-9C7D-38574F0E5741": " ",
     "DC9FA417-70DF-4562-8E5A-338E670DA064": " "

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 885,
+  "changeIdentifier": 887,
   "do_objectID": "8FB80139-70A1-4C75-A82D-E56DF279843D",
   "exportOptions": {
     "_class": "exportOptions",
@@ -56,8 +56,8 @@
       "id": "CA201667-6B47-4E1C-B1BB-0E59A9F7FC70"
     }
   ],
-  "name": "activityCard",
-  "nameIsFixed": false,
+  "name": "recCard",
+  "nameIsFixed": true,
   "originalObjectID": "8FB80139-70A1-4C75-A82D-E56DF279843D",
   "resizesContent": true,
   "resizingConstraint": 63,

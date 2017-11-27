@@ -14,9 +14,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 240,
-    "width": 824,
-    "x": 48,
-    "y": 280
+    "width": 566,
+    "x": 678,
+    "y": 400
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -27,13 +27,13 @@
   "masterInfluenceEdgeMaxXPadding": 0,
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 3,
+  "masterInfluenceEdgeMinYPadding": 0,
   "name": "welcomeBlurb",
   "nameIsFixed": false,
   "originalObjectID": "152C8D55-9BD0-4C28-B051-0B5AD4B4E566",
   "overrides": {
-    "671EA44A-761C-41B0-82CD-E1E625A84444": "Bookmark",
-    "6CE2B75B-17E6-4408-887E-EDE71A973E9A": "Keep track of the things you’re interested in and we’ll send you a list."
+    "671EA44A-761C-41B0-82CD-E1E625A84444": "Make a List",
+    "6CE2B75B-17E6-4408-887E-EDE71A973E9A": "Keep a list of the things you’re interested in and send yourself a copy so you can have it while you travel."
   },
   "resizingConstraint": 63,
   "resizingType": 0,

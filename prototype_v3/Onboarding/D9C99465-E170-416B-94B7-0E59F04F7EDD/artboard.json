@@ -39,7 +39,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "text",
@@ -52,6 +52,14 @@
     {
       "class": "symbolInstance",
       "id": "EF65F125-AFE7-418D-9B64-825037228EB9"
+    },
+    {
+      "class": "text",
+      "id": "7A178F4D-94EA-4DB7-8DFA-ED5CD9BEF5E7"
+    },
+    {
+      "class": "text",
+      "id": "AD58094B-A568-4CB2-85AE-6930312169E7"
     }
   ],
   "name": "welcomeOne",

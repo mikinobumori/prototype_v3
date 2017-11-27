@@ -39,7 +39,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -50,8 +50,12 @@
       "id": "115AF015-E132-4136-B085-B45ED4A5CD9F"
     },
     {
-      "class": "shapeGroup",
-      "id": "8EDDB3BD-8F56-4F4D-8D43-F17DC3E17C82"
+      "class": "group",
+      "id": "E2F8B543-4DA7-4804-9D53-DAE3A2148256"
+    },
+    {
+      "class": "text",
+      "id": "B67568A1-C475-4D8E-8D37-7EA2039AA90A"
     }
   ],
   "name": "welcomeFour",

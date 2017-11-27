@@ -39,19 +39,23 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "58CA9480-8556-4C41-AF86-BBBF00908C3E"
-    },
     {
       "class": "symbolInstance",
       "id": "00431503-2A70-423E-9BEA-46381E74810F"
     },
     {
-      "class": "shapeGroup",
-      "id": "72152707-7C73-45FA-919F-04B9A0C8C923"
+      "class": "group",
+      "id": "D8518E65-D536-4F5D-BEF0-112606B61C98"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "58CA9480-8556-4C41-AF86-BBBF00908C3E"
+    },
+    {
+      "class": "text",
+      "id": "CB74D09D-F81E-4CAA-9A73-B760AE31C702"
     }
   ],
   "name": "welcomeFive",

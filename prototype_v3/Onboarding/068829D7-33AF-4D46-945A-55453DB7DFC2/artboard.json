@@ -39,7 +39,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -50,8 +50,12 @@
       "id": "B78C8AAC-3995-4C5B-B34A-4835AA48F5F6"
     },
     {
-      "class": "shapeGroup",
-      "id": "0A17D22E-0179-48BD-B1B9-2C4F4F4C7284"
+      "class": "group",
+      "id": "EC1A95C8-F971-4348-B397-48B891BE76F4"
+    },
+    {
+      "class": "text",
+      "id": "EEB9B1BB-A668-4AAC-A8CD-E78BF4208B3F"
     }
   ],
   "name": "welcomeTwo",

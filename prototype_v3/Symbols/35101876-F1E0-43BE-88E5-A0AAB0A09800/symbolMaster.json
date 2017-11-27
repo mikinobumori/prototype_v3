@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 548,
+  "changeIdentifier": 698,
   "do_objectID": "35101876-F1E0-43BE-88E5-A0AAB0A09800",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 200,
     "width": 200,
-    "x": 776,
-    "y": 886
+    "x": 460,
+    "y": 720
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -48,8 +48,8 @@
       "id": "34CA876E-3DDD-43FD-8063-E61D22AC759A"
     }
   ],
-  "name": "img_activity",
-  "nameIsFixed": false,
+  "name": "img_rec",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

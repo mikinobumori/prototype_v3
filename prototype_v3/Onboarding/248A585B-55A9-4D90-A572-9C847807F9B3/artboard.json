@@ -39,7 +39,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -50,8 +50,12 @@
       "id": "BDD185D2-BA3B-4AAA-B8B9-0829FAFDCCE0"
     },
     {
-      "class": "shapeGroup",
-      "id": "94550E1A-7D30-42DE-A78F-6AB9713A573E"
+      "class": "group",
+      "id": "3F93B9D9-0B4E-4DB2-A058-50210D17787C"
+    },
+    {
+      "class": "text",
+      "id": "0C7D3524-5D56-454A-AE0B-0454432EE086"
     }
   ],
   "name": "welcomeThree",

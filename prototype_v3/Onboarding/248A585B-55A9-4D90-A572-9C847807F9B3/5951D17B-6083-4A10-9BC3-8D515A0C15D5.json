@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 240,
-    "width": 824,
-    "x": 48,
-    "y": 280
+    "height": 179,
+    "width": 538,
+    "x": 742,
+    "y": 80
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -27,12 +27,12 @@
   "masterInfluenceEdgeMaxXPadding": 0,
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 3,
+  "masterInfluenceEdgeMinYPadding": 0,
   "name": "welcomeBlurb",
   "nameIsFixed": false,
   "originalObjectID": "152C8D55-9BD0-4C28-B051-0B5AD4B4E566",
   "overrides": {
-    "671EA44A-761C-41B0-82CD-E1E625A84444": "Explore",
+    "671EA44A-761C-41B0-82CD-E1E625A84444": "Meet your hosts",
     "6CE2B75B-17E6-4408-887E-EDE71A973E9A": "Get to know the staff and see whose interests match yours."
   },
   "resizingConstraint": 63,

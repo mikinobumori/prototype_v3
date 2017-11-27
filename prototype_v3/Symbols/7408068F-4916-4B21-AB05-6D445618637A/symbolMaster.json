@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 12050,
+  "changeIdentifier": 17618,
   "do_objectID": "7408068F-4916-4B21-AB05-6D445618637A",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 76
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -44,11 +44,19 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "0CE74DD8-EA98-4286-8569-3B0B4C0CA4F8"
+      "class": "shapeGroup",
+      "id": "A51CD5C3-BA32-4F20-A6B0-B7485E6E8451"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F7C1B96D-D197-46FC-98AC-A6A624EFF790"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9229862B-3D6E-4AA4-A253-ABA05E9B4383"
     }
   ],
-  "name": "ic_food",
+  "name": "ic_accessibility",
   "nameIsFixed": true,
   "originalObjectID": "E0339399-AC2D-4FA5-ACF8-9E57A6EFEFA7",
   "resizesContent": false,
