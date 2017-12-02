@@ -15,8 +15,8 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": 0,
-    "y": 224
+    "x": 8,
+    "y": 262
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -31,7 +31,7 @@
   "name": "icDate",
   "nameIsFixed": true,
   "originalObjectID": "90503107-6155-4B9E-A42D-A96995D029C8",
-  "resizingConstraint": 63,
+  "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

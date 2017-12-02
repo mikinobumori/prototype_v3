@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 456,
+  "changeIdentifier": 461,
   "do_objectID": "CDFEAF5E-70DE-4EC7-8901-59710402A2A1",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 1857
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -54,6 +54,7 @@
   ],
   "name": "btn_allHosts",
   "nameIsFixed": false,
+  "originalObjectID": "CDFEAF5E-70DE-4EC7-8901-59710402A2A1",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

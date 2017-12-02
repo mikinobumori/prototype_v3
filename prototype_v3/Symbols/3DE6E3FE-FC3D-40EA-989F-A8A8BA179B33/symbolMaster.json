@@ -7,11 +7,20 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 3595,
+  "changeIdentifier": 3596,
   "do_objectID": "3DE6E3FE-FC3D-40EA-989F-A8A8BA179B33",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],

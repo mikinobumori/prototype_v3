@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 8853,
+  "changeIdentifier": 9833,
   "do_objectID": "CE420D4F-04CD-497E-BBB3-523A8664EE43",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,8 +21,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
-    "width": 78,
+    "height": 20,
+    "width": 114,
     "x": 776,
     "y": 812
   },
@@ -54,8 +54,8 @@
   ],
   "name": "btn_tag",
   "nameIsFixed": true,
-  "originalObjectID": "59258C44-E31F-466A-AD5D-A8585C8470A6",
-  "resizesContent": false,
+  "originalObjectID": "CE420D4F-04CD-497E-BBB3-523A8664EE43",
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

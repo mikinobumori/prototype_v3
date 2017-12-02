@@ -13,17 +13,17 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 14,
-    "width": 10,
-    "x": 7,
-    "y": 6
+    "height": 19,
+    "width": 14,
+    "x": 8,
+    "y": 7
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -56,6 +56,7 @@
   ],
   "name": "btnFood",
   "nameIsFixed": false,
+  "originalObjectID": "2E9E8266-A7B1-4BAA-A67A-048B6FD7A7E1",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 8,
-    "width": 8,
-    "x": 2,
-    "y": 6.5
+    "height": 7.5,
+    "width": 7.5,
+    "x": 3,
+    "y": 7
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -34,7 +34,7 @@
   ],
   "name": "Oval 4",
   "nameIsFixed": false,
-  "originalObjectID": "EF622D56-FF39-40C0-972C-DCC2DE81AED2",
+  "originalObjectID": "F7C1B96D-D197-46FC-98AC-A6A624EFF790",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

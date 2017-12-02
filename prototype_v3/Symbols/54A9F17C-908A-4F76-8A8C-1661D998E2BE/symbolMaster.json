@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 4377,
+  "changeIdentifier": 8229,
   "do_objectID": "54A9F17C-908A-4F76-8A8C-1661D998E2BE",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,9 +21,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 32,
-    "width": 24,
-    "x": 1668,
+    "height": 40,
+    "width": 30,
+    "x": 1628,
     "y": 132
   },
   "hasBackgroundColor": false,
@@ -54,7 +54,7 @@
   ],
   "name": "ic_locationPinFood",
   "nameIsFixed": true,
-  "originalObjectID": "97847A39-D46B-4EF1-864A-539814B5DED9",
+  "originalObjectID": "54A9F17C-908A-4F76-8A8C-1661D998E2BE",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

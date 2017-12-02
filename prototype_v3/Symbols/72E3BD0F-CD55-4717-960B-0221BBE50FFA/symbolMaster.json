@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 984,
+  "changeIdentifier": 1062,
   "do_objectID": "72E3BD0F-CD55-4717-960B-0221BBE50FFA",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 1857
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -70,6 +70,7 @@
   ],
   "name": "profileActivity",
   "nameIsFixed": false,
+  "originalObjectID": "72E3BD0F-CD55-4717-960B-0221BBE50FFA",
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

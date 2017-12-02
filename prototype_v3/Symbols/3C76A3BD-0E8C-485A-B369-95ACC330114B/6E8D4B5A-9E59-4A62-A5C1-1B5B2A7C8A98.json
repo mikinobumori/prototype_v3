@@ -15,8 +15,8 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": 326,
-    "y": 44
+    "x": 378,
+    "y": 52
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -30,7 +30,7 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "icContact",
   "nameIsFixed": false,
-  "originalObjectID": "44DD5BD6-5ECE-4B52-BD18-DCCB7C61FAEE",
+  "originalObjectID": "6E8D4B5A-9E59-4A62-A5C1-1B5B2A7C8A98",
   "resizingConstraint": 27,
   "resizingType": 0,
   "rotation": 0,

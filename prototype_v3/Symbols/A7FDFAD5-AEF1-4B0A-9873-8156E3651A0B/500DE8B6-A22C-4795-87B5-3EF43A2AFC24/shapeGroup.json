@@ -14,7 +14,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 88,
+    "height": 100,
     "width": 560,
     "x": 0,
     "y": 0
@@ -34,28 +34,13 @@
   ],
   "name": "Rectangle",
   "nameIsFixed": false,
+  "originalObjectID": "500DE8B6-A22C-4795-87B5-3EF43A2AFC24",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "borders": [
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.3058823529411765,
-          "green": 0.1568627450980394,
-          "red": 0.07058823529411765
-        },
-        "fillType": 0,
-        "isEnabled": false,
-        "position": 1,
-        "thickness": 2
-      }
-    ],
     "endDecorationType": 0,
     "fills": [
       {

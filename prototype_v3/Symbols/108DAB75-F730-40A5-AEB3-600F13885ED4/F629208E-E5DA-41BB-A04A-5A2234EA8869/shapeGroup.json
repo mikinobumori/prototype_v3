@@ -16,7 +16,7 @@
     "constrainProportions": false,
     "height": 2,
     "width": 80,
-    "x": 154,
+    "x": 211,
     "y": 100
   },
   "hasClickThrough": false,
@@ -32,8 +32,9 @@
       "id": "1AE0BD13-F61A-4C6F-8C44-B5F70463E8B1"
     }
   ],
-  "name": "Rectangle",
+  "name": "selected",
   "nameIsFixed": true,
+  "originalObjectID": "F629208E-E5DA-41BB-A04A-5A2234EA8869",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

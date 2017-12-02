@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 6752,
+  "changeIdentifier": 8551,
   "do_objectID": "3C76A3BD-0E8C-485A-B369-95ACC330114B",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,8 +21,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 72,
-    "width": 480,
+    "height": 84,
+    "width": 588,
     "x": 100,
     "y": 2976
   },
@@ -43,10 +43,6 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "shapeGroup",
-      "id": "087E22EC-FB21-4EA2-A4A7-AB7CB0966D84"
-    },
     {
       "class": "text",
       "id": "EF59BC26-4A47-48B3-9B4D-646397F76DDD"
@@ -90,10 +86,15 @@
     {
       "class": "text",
       "id": "FD94EC77-6791-4CD3-9F14-6DAD2A5801D0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "087E22EC-FB21-4EA2-A4A7-AB7CB0966D84"
     }
   ],
   "name": "listActivity",
   "nameIsFixed": true,
+  "originalObjectID": "3C76A3BD-0E8C-485A-B369-95ACC330114B",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

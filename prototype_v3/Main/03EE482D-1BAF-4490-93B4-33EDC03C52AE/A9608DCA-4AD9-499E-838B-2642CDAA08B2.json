@@ -16,7 +16,7 @@
     "height": 20,
     "width": 204,
     "x": 24,
-    "y": 260
+    "y": 146
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -30,6 +30,7 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "btn_allHosts",
   "nameIsFixed": false,
+  "originalObjectID": "CDFEAF5E-70DE-4EC7-8901-59710402A2A1",
   "resizingConstraint": 19,
   "resizingType": 0,
   "rotation": 0,
@@ -41,5 +42,27 @@
     "startDecorationType": 0
   },
   "symbolID": "4B7BA0A9-5E10-4D7D-87AF-85C523EB7D9D",
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "6BB5032D-B741-4B16-B35E-09F3AFDCC4CD",
+      "transition": 0
+    }
+  },
   "verticalSpacing": 0
 }

@@ -62,6 +62,21 @@
       "id": "1FB91A0A-3CD0-449E-906D-03679FAEC6E8"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 80.5,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 24.18181818181818,
+    "guttersOutside": false,
+    "horizontalOffset": -349,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1232
+  },
   "name": "ListConfirmation",
   "nameIsFixed": true,
   "resizesContent": false,

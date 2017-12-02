@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
-    "width": 78,
+    "height": 22.22222222222223,
+    "width": 114,
     "x": 84,
-    "y": 56
+    "y": 58
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -27,10 +27,11 @@
   "masterInfluenceEdgeMaxXPadding": 0,
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 1,
   "name": "btn_tag",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "originalObjectID": "F01A2FC1-A205-4C0C-9766-10BDFF754B74",
+  "resizingConstraint": 27,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

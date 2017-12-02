@@ -55,10 +55,6 @@
     },
     {
       "class": "symbolInstance",
-      "id": "EC8BA083-E82B-444C-885A-6F5686C0BAA8"
-    },
-    {
-      "class": "symbolInstance",
       "id": "489D89F9-03EE-458C-95F8-FA49CAD6A2D8"
     },
     {
@@ -90,6 +86,21 @@
       "id": "8FD8D9BC-1432-40DA-A193-705DD71B8EE2"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 78,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 24,
+    "guttersOutside": false,
+    "horizontalOffset": 40,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
   "name": "List",
   "nameIsFixed": true,
   "resizesContent": false,
@@ -107,6 +118,7 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      402
     ]
   }
 }

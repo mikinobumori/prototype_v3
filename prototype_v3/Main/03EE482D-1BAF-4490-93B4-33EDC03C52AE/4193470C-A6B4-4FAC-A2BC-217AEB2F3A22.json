@@ -16,7 +16,7 @@
     "height": 139,
     "width": 600,
     "x": 248,
-    "y": 366
+    "y": 252
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -30,8 +30,14 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "profileActivity",
   "nameIsFixed": false,
+  "originalObjectID": "72E3BD0F-CD55-4717-960B-0221BBE50FFA",
   "overrides": {
-    "47E112DE-37BD-448C-A6DD-DDC52E78001F": "I love to drink coffee so I would recommend guests to go to my favourite coffee shop in Funchal, Penha D'Aguia. I recommend this coffeeshop because their coffee is amazing and very affordable.",
+    "0093C0C3-7E9C-406B-8EB2-9686FAED31AF": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/3a80e5a4072507b1c09938827f0ca0433232c88b",
+      "_ref_class": "MSImageData"
+    },
+    "47E112DE-37BD-448C-A6DD-DDC52E78001F": "Do a jeep tour. Because its very peaceful and pretty.",
     "79EECF8E-06B7-490E-86B6-768ECEF4D780": {
       "853DEC47-F154-4138-890D-61D2741D9B04": {
         "_class": "MSJSONFileReference",
@@ -44,8 +50,8 @@
       "_ref": "images/8814ec06165ebc567be13f54a90546d10e8a1c32",
       "_ref_class": "MSImageData"
     },
-    "CC4B15D8-5F6D-4577-A0CC-E88531DA81EF": "Penha D'Aguia",
-    "D1FB0085-54FF-4801-A58C-C432D67A9CEE": "Cafe"
+    "CC4B15D8-5F6D-4577-A0CC-E88531DA81EF": "Jeep tour",
+    "D1FB0085-54FF-4801-A58C-C432D67A9CEE": "Category"
   },
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -58,5 +64,30 @@
     "startDecorationType": 0
   },
   "symbolID": "2A030A17-6CC2-4F9F-8865-53C4B3E37F8A",
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 50,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 1,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 1,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "255D8999-1660-4358-92D4-09B759B38DFB",
+      "transition": 0
+    },
+    "com.invisionlabs.data": {
+      "json-plugin-data": "{\"name\":\"dataStaff.json\",\"paths\":{\"selection\":[],\"repeat\":[\"rec1Title\"]},\"path\":\"70267AD9-3F1F-4754-A608-BD39349B6116.json\"}"
+    }
+  },
   "verticalSpacing": 0
 }

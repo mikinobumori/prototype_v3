@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1,
-    "width": 8.000000000000012,
-    "x": -1.811110920376357,
-    "y": 9.499999999999993
+    "height": 2,
+    "width": 9.5,
+    "x": -1.100000381469727,
+    "y": 13.25
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -34,7 +34,7 @@
   ],
   "name": "line5",
   "nameIsFixed": true,
-  "originalObjectID": "CAD08DED-3FE7-4DC1-9C1C-2EB13B98DFFE",
+  "originalObjectID": "930C9EB8-94FF-424E-A94E-26A5EE9FD13C",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": -90,
@@ -48,9 +48,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.3058823529411765,
+          "green": 0.1568627450980394,
+          "red": 0.07058823529411765
         },
         "fillType": 0,
         "isEnabled": true,

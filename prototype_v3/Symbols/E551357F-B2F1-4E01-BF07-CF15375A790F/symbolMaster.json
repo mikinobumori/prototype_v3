@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 907,
+  "changeIdentifier": 1650,
   "do_objectID": "E551357F-B2F1-4E01-BF07-CF15375A790F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -45,10 +45,6 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "8FCC2131-2640-47ED-87D0-7F3FF6617911"
-    },
-    {
-      "class": "symbolInstance",
       "id": "35137B7F-68FF-4677-AC2E-4DAD7D77F4E0"
     },
     {
@@ -62,7 +58,7 @@
   ],
   "name": "tab_all",
   "nameIsFixed": true,
-  "originalObjectID": "162AAAEA-3E5B-453E-896D-A19F842BF647",
+  "originalObjectID": "E551357F-B2F1-4E01-BF07-CF15375A790F",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

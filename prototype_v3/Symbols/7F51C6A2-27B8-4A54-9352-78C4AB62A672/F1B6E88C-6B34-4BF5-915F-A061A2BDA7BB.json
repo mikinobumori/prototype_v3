@@ -15,8 +15,8 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": 0,
-    "y": 128
+    "x": 8,
+    "y": 150
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -31,7 +31,7 @@
   "name": "icCost",
   "nameIsFixed": false,
   "originalObjectID": "F1B6E88C-6B34-4BF5-915F-A061A2BDA7BB",
-  "resizingConstraint": 63,
+  "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

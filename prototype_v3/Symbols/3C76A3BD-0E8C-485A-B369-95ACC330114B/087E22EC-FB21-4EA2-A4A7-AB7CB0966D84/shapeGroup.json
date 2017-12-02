@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0.9855072463768124,
-    "width": 480,
+    "height": 1,
+    "width": 588,
     "x": 0,
-    "y": 71.01449275362302
+    "y": 83
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -25,7 +25,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapePath",
@@ -34,6 +34,7 @@
   ],
   "name": "Line",
   "nameIsFixed": false,
+  "originalObjectID": "087E22EC-FB21-4EA2-A4A7-AB7CB0966D84",
   "resizingConstraint": 50,
   "resizingType": 0,
   "rotation": 0,

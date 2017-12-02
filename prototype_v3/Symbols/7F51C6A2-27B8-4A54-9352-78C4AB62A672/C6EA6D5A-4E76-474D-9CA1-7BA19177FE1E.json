@@ -15,8 +15,8 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": 0,
-    "y": 296
+    "x": 8,
+    "y": 346
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -30,8 +30,8 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "icLength",
   "nameIsFixed": false,
-  "originalObjectID": "372C365E-14F0-4943-B788-A59963FC3C07",
-  "resizingConstraint": 63,
+  "originalObjectID": "C6EA6D5A-4E76-474D-9CA1-7BA19177FE1E",
+  "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

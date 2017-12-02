@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 698,
+  "changeIdentifier": 853,
   "do_objectID": "35101876-F1E0-43BE-88E5-A0AAB0A09800",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,13 +21,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 200,
-    "width": 200,
-    "x": 460,
-    "y": 720
+    "height": 290,
+    "width": 290,
+    "x": 437,
+    "y": 725
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -50,6 +50,7 @@
   ],
   "name": "img_rec",
   "nameIsFixed": true,
+  "originalObjectID": "35101876-F1E0-43BE-88E5-A0AAB0A09800",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -14,8 +14,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 796,
-    "width": 752,
-    "x": 528,
+    "width": 628,
+    "x": 652,
     "y": 122
   },
   "hasClickThrough": false,
@@ -34,32 +34,32 @@
       "id": "532BF666-5A1F-470A-8459-0BD22644ABFD"
     },
     {
-      "class": "symbolInstance",
-      "id": "7C4B9A87-0E86-444F-A136-8C3EBBFBDFEA"
+      "class": "group",
+      "id": "6BB235C2-ABB4-4A5E-A367-4B720E08DC53"
     },
     {
-      "class": "symbolInstance",
-      "id": "92717792-3C70-4642-B021-FBE90A8E3557"
+      "class": "group",
+      "id": "7CEA6D0A-71EC-46E1-B35F-05F692E301D3"
     },
     {
-      "class": "symbolInstance",
-      "id": "173D2125-FA82-4ADC-900F-3CE1A14D3B97"
+      "class": "group",
+      "id": "9442093B-1511-4088-863A-F806B61D7F6A"
     },
     {
-      "class": "symbolInstance",
-      "id": "CBCD0319-5E45-4114-AB57-EBB15D806E23"
+      "class": "group",
+      "id": "20444C30-676C-41B3-B612-1414057131CA"
     },
     {
-      "class": "symbolInstance",
-      "id": "5831F9B6-F96C-49E1-8EBA-0A8A2AE18E14"
+      "class": "group",
+      "id": "920B89C9-7DF7-4D71-9DB4-DBE100A69CCD"
     },
     {
-      "class": "symbolInstance",
-      "id": "257F7A43-7D11-43AB-B869-B1250A2E27DA"
+      "class": "group",
+      "id": "40E7D7AB-5C8F-448B-994C-6D982AF36A5A"
     },
     {
-      "class": "symbolInstance",
-      "id": "C87B0940-E100-4477-B3F7-0B13CB280FC2"
+      "class": "group",
+      "id": "B882D7F4-8958-413B-A833-E117D1A5BB82"
     }
   ],
   "name": "map_central",

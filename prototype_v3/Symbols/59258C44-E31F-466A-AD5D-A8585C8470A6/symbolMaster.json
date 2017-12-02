@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 8774,
+  "changeIdentifier": 10383,
   "do_objectID": "59258C44-E31F-466A-AD5D-A8585C8470A6",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,13 +21,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 72,
-    "width": 584,
+    "height": 78,
+    "width": 560,
     "x": 776,
     "y": 724
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -45,15 +45,15 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "748E0C52-1460-435E-AFCF-EED196C6727B"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "F0350614-C316-4673-BDC8-D0FE9600F690"
-    },
-    {
-      "class": "symbolInstance",
       "id": "F01A2FC1-A205-4C0C-9766-10BDFF754B74"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A81F20ED-3B12-4069-890A-B81F5414F8C3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7091AF04-A298-4D98-983D-4B2691070F27"
     },
     {
       "class": "text",
@@ -75,7 +75,7 @@
   "name": "RecTop",
   "nameIsFixed": true,
   "originalObjectID": "59258C44-E31F-466A-AD5D-A8585C8470A6",
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

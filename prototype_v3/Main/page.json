@@ -54,25 +54,100 @@
     },
     {
       "class": "artboard",
-      "id": "E95756D1-C020-4578-A170-FF4201C1A9A7"
+      "id": "0E938D12-2005-45E1-B145-65248D65606C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C82633A0-6046-4933-A382-A47B3F4CAB37"
     },
     {
       "class": "artboard",
-      "id": "D185330E-AD10-49D7-AE1E-C6D99CB3CC80"
+      "id": "255D8999-1660-4358-92D4-09B759B38DFB"
     },
     {
       "class": "artboard",
       "id": "03EE482D-1BAF-4490-93B4-33EDC03C52AE"
     },
     {
-      "class": "artboard",
-      "id": "C80BFBE1-B64C-414C-B40E-FD791D7B7D06"
+      "class": "symbolInstance",
+      "id": "ABA26810-6B05-45F6-94B8-EE51F19D87D4"
     },
     {
       "class": "artboard",
-      "id": "B334FC97-E522-4EA0-867C-E3069C1B0673"
+      "id": "0821BE52-431F-4519-9EAD-46C93EF90CF1"
+    },
+    {
+      "class": "artboard",
+      "id": "CFC2310B-70F7-42C0-840C-0D500B84611B"
+    },
+    {
+      "class": "artboard",
+      "id": "22F7BC42-8EFE-4B49-B8BD-B3AB00C1B5FA"
+    },
+    {
+      "class": "artboard",
+      "id": "00342F10-84E5-476C-B8D1-97D635B500CF"
+    },
+    {
+      "class": "artboard",
+      "id": "791D5070-8660-4974-8311-CD94741F624C"
+    },
+    {
+      "class": "artboard",
+      "id": "CCF37780-E98B-4B4D-9F8C-1C0931ED2192"
+    },
+    {
+      "class": "artboard",
+      "id": "5C847368-803B-4D94-83BC-A5E7A3E72662"
+    },
+    {
+      "class": "text",
+      "id": "29F49DAF-E8F1-49F0-88FC-CB74B1EB4B6B"
+    },
+    {
+      "class": "text",
+      "id": "FCAA4A48-C6C6-4455-8B56-1687FEDB11EC"
+    },
+    {
+      "class": "text",
+      "id": "8FBE5335-31C5-45A7-BB9A-0F005FBE7DC3"
+    },
+    {
+      "class": "text",
+      "id": "17C2113D-FCAB-4C22-AAC0-B78A59280A07"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D62AEBD1-C383-4673-BC0D-A36EF342CB15"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "85134CFA-6C91-49B6-B9DA-9FB82BC8616C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9757E611-CC4B-44AF-9213-12F0699EDAB4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1F215EC9-54F7-4B8D-BEB3-7DEB5B603F52"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
   "name": "Main",
   "nameIsFixed": true,
   "resizingConstraint": 63,
@@ -87,10 +162,10 @@
   },
   "userInfo": {
     "com.invision.prototype": {
-      "lastUsedGestureID": 0
+      "lastUsedGestureID": 3
     },
     "com.invisionlabs.data": {
-      "json-files": "[{\"path\":\"A95FAAB9-2A5C-47E9-A324-48B34E0CB4A7.json\",\"name\":\"https:\\/\\/sheetsu.com\\/apis\\/v1.0bu\\/74827dbfa777\",\"hash\":\"e9b147fa69f0e8cae1c8bb5799b79809b020f542\"},{\"path\":\"99507288-6690-4AD3-8FAC-18B11C3F96FA.json\",\"name\":\"https:\\/\\/sheetsu.com\\/apis\\/v1.0bu\\/95969aa4aef7\",\"hash\":\"e7f6797ad6d1ffdab45a3a210765e792be217ad3\"},{\"path\":\"A2D472C3-AC01-488A-8D56-564B94E2E8EA.json\",\"name\":\"https:\\/\\/sheetsu.com\\/apis\\/v1.0bu\\/1ea6c7aead1d\",\"hash\":\"e7f6797ad6d1ffdab45a3a210765e792be217ad3\"},{\"path\":\"602FEB2C-F844-43A3-8E0E-993EDD2A5A4D.json\",\"name\":\"staffProfiles.json\",\"hash\":\"3752c6ea3910d9c9f39c7756a067ba2ac21919bd\"},{\"path\":\"AAC8EB91-823D-4FC5-8C15-B3EC064FBFEB.json\",\"name\":\"staffProfiles.json\",\"hash\":\"6932d4c22d5614dc2e4b5fddb8fa5d720de6fc0f\"},{\"path\":\"90CB8011-755C-4F5E-9949-B2897188539B.json\",\"name\":\"activitiesTest.json\",\"hash\":\"ecf9f483c75307f019633617e8287c0e98ecbf88\"}]"
+      "json-files": "[{\"path\":\"A95FAAB9-2A5C-47E9-A324-48B34E0CB4A7.json\",\"name\":\"https:\\/\\/sheetsu.com\\/apis\\/v1.0bu\\/74827dbfa777\",\"hash\":\"e9b147fa69f0e8cae1c8bb5799b79809b020f542\"},{\"path\":\"99507288-6690-4AD3-8FAC-18B11C3F96FA.json\",\"name\":\"https:\\/\\/sheetsu.com\\/apis\\/v1.0bu\\/95969aa4aef7\",\"hash\":\"e7f6797ad6d1ffdab45a3a210765e792be217ad3\"},{\"path\":\"A2D472C3-AC01-488A-8D56-564B94E2E8EA.json\",\"name\":\"https:\\/\\/sheetsu.com\\/apis\\/v1.0bu\\/1ea6c7aead1d\",\"hash\":\"e7f6797ad6d1ffdab45a3a210765e792be217ad3\"},{\"path\":\"602FEB2C-F844-43A3-8E0E-993EDD2A5A4D.json\",\"name\":\"staffProfiles.json\",\"hash\":\"3752c6ea3910d9c9f39c7756a067ba2ac21919bd\"},{\"path\":\"AAC8EB91-823D-4FC5-8C15-B3EC064FBFEB.json\",\"name\":\"staffProfiles.json\",\"hash\":\"6932d4c22d5614dc2e4b5fddb8fa5d720de6fc0f\"},{\"path\":\"90CB8011-755C-4F5E-9949-B2897188539B.json\",\"name\":\"activitiesTest.json\",\"hash\":\"ecf9f483c75307f019633617e8287c0e98ecbf88\"},{\"path\":\"70267AD9-3F1F-4754-A608-BD39349B6116.json\",\"name\":\"dataStaff.json\",\"hash\":\"eb3d5cf0cc03b50232772c428c63b98582379112\"}]"
     }
   },
   "verticalRulerData": {

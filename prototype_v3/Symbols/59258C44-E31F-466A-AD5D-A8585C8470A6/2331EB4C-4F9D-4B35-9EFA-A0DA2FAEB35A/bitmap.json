@@ -18,7 +18,7 @@
     "height": 72,
     "width": 72,
     "x": 0,
-    "y": 0
+    "y": 6
   },
   "image": {
     "_class": "MSJSONFileReference",
@@ -35,7 +35,7 @@
   "nineSliceCenterRect": "{{0, 0}, {0, 0}}",
   "nineSliceScale": "{0, 0}",
   "originalObjectID": "2331EB4C-4F9D-4B35-9EFA-A0DA2FAEB35A",
-  "resizingConstraint": 63,
+  "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

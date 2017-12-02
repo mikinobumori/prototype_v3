@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 48,
+    "height": 56,
     "width": 220,
     "x": 156,
-    "y": 224
+    "y": 216
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -30,6 +30,7 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "btn_regular",
   "nameIsFixed": false,
+  "originalObjectID": "081274A5-C88B-4CA4-A0DD-20407C7F6F6B",
   "overrides": {
     "D8386B12-3101-4E4A-9A4A-E9E4E6DBBAFE": "Done"
   },

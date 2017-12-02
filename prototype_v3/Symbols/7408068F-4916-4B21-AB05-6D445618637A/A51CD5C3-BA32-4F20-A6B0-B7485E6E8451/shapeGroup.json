@@ -16,8 +16,8 @@
     "constrainProportions": false,
     "height": 9.076138893768023,
     "width": 5.864497579248038,
-    "x": 5.91524431381049,
-    "y": 4.45757672143543
+    "x": 7,
+    "y": 4.5
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -34,7 +34,7 @@
   ],
   "name": "Path 6",
   "nameIsFixed": false,
-  "originalObjectID": "CED178DC-63A9-45DE-9CA8-96B0CB180E1A",
+  "originalObjectID": "A51CD5C3-BA32-4F20-A6B0-B7485E6E8451",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

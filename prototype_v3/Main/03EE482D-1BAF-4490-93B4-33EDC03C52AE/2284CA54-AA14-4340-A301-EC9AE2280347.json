@@ -16,7 +16,7 @@
     "height": 200,
     "width": 200,
     "x": 24,
-    "y": 304
+    "y": 190
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -30,6 +30,14 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "img_profile",
   "nameIsFixed": false,
+  "originalObjectID": "8A2CBF10-0225-474D-98F4-CB8264593974",
+  "overrides": {
+    "F75D5F9F-A43E-44CE-9EE2-9E20589168A0": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/bcceca0e933fb6168d0241407648103f4177d5c6",
+      "_ref_class": "MSImageData"
+    }
+  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

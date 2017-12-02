@@ -15,8 +15,8 @@
     "constrainProportions": false,
     "height": 248,
     "width": 1288,
-    "x": 25,
-    "y": 754
+    "x": 40,
+    "y": 640
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -57,5 +57,7 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
+  },
+  "userInfo": {
   }
 }

@@ -7,11 +7,20 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 17618,
+  "changeIdentifier": 17967,
   "do_objectID": "7408068F-4916-4B21-AB05-6D445618637A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -27,7 +36,7 @@
     "y": 76
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -58,7 +67,7 @@
   ],
   "name": "ic_accessibility",
   "nameIsFixed": true,
-  "originalObjectID": "E0339399-AC2D-4FA5-ACF8-9E57A6EFEFA7",
+  "originalObjectID": "7408068F-4916-4B21-AB05-6D445618637A",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

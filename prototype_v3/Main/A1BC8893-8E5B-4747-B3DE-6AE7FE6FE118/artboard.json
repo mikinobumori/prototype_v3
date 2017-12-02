@@ -66,6 +66,21 @@
       "id": "2263B07C-0B3A-45FB-B076-90AA04C26B3D"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 80.5,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 24.18181818181818,
+    "guttersOutside": false,
+    "horizontalOffset": -349,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1232
+  },
   "name": "ListEmail",
   "nameIsFixed": true,
   "resizesContent": false,

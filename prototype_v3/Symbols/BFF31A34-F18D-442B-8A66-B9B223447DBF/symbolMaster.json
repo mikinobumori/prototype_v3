@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 222,
+  "changeIdentifier": 460,
   "do_objectID": "BFF31A34-F18D-442B-8A66-B9B223447DBF",
   "exportOptions": {
     "_class": "exportOptions",
@@ -22,12 +22,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 12,
-    "width": 108,
-    "x": 960,
+    "width": 12,
+    "x": 707,
     "y": -493
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -41,30 +41,14 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "9422157B-E8B7-41F0-A50C-D658EF2FA051"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "59CB2480-6FC2-43C2-B54D-1117667085E9"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "1164194D-A3BD-49FD-A44B-9AF3D51AE41C"
-    },
-    {
-      "class": "shapeGroup",
       "id": "F762AE6A-BF96-4072-8C15-70AF77546850"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "F2608737-399A-4584-BF10-5251253B0934"
     }
   ],
-  "name": "welcomeDots",
+  "name": "welcomeDots_selected",
   "nameIsFixed": true,
   "originalObjectID": "BFF31A34-F18D-442B-8A66-B9B223447DBF",
   "resizesContent": false,

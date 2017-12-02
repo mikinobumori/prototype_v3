@@ -14,8 +14,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
-    "width": 78,
+    "height": 20,
+    "width": 114,
     "x": 0,
     "y": 0
   },
@@ -25,7 +25,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
@@ -34,7 +34,8 @@
   ],
   "name": "bg",
   "nameIsFixed": true,
-  "resizingConstraint": 63,
+  "originalObjectID": "B2A65853-EF36-49FE-926D-0E33AAB09D17",
+  "resizingConstraint": 11,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

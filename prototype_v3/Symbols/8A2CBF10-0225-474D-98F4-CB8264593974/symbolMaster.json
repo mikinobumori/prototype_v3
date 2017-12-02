@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 625,
+  "changeIdentifier": 627,
   "do_objectID": "8A2CBF10-0225-474D-98F4-CB8264593974",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 1857
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -50,6 +50,7 @@
   ],
   "name": "img_profile",
   "nameIsFixed": false,
+  "originalObjectID": "8A2CBF10-0225-474D-98F4-CB8264593974",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

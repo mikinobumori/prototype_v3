@@ -14,7 +14,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 48,
-    "width": 320,
+    "width": 426.6000061035156,
     "x": 0,
     "y": 0
   },
@@ -30,7 +30,7 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "tab_rec",
   "nameIsFixed": true,
-  "originalObjectID": "290AFEE2-4A15-4811-9CFC-92685B895960",
+  "originalObjectID": "6A5E7631-A1BE-4F3E-8001-ADCE37B24645",
   "overrides": {
     "12C70667-E217-498A-8DB3-1EED0984DCD4": "For You"
   },

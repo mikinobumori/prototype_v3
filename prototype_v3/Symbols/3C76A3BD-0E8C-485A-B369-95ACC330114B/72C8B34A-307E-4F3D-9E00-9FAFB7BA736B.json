@@ -15,7 +15,7 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": 326,
+    "x": 378,
     "y": 16
   },
   "horizontalSpacing": 0,
@@ -30,7 +30,7 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "icHours",
   "nameIsFixed": false,
-  "originalObjectID": "4038FC02-8C43-4EB3-A964-A6E1135320FA",
+  "originalObjectID": "72C8B34A-307E-4F3D-9E00-9FAFB7BA736B",
   "resizingConstraint": 27,
   "resizingType": 0,
   "rotation": 0,

@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 72,
-    "width": 480,
-    "x": 24,
-    "y": 518
+    "height": 84,
+    "width": 588,
+    "x": 40,
+    "y": 566
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -30,6 +30,7 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "listActivity",
   "nameIsFixed": false,
+  "originalObjectID": "3C76A3BD-0E8C-485A-B369-95ACC330114B",
   "overrides": {
     "64FBC6C7-2DA9-4F66-8B55-EFCF0D13460C": {
       "symbolID": ""

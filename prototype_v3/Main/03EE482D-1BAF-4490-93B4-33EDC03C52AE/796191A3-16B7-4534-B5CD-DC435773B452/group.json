@@ -1,0 +1,110 @@
+{
+  "_class": "group",
+  "do_objectID": "796191A3-16B7-4534-B5CD-DC435773B452",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 616,
+    "width": 200,
+    "x": 24,
+    "y": 414
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9A5C9561-E290-40A5-8612-2AD805A41BCB"
+    },
+    {
+      "class": "text",
+      "id": "8BEB79A0-D803-40D6-991B-C203C62F9D05"
+    },
+    {
+      "class": "text",
+      "id": "9832F56E-2599-4686-B1B6-F4ACB3164058"
+    },
+    {
+      "class": "text",
+      "id": "A5EFDDE5-B0CA-4EC1-8546-FC5DA4E59381"
+    },
+    {
+      "class": "text",
+      "id": "28456792-A05F-4ED8-9E2B-68F08F63DA7A"
+    },
+    {
+      "class": "text",
+      "id": "7F7F9833-6343-4F17-A3F1-3B4BED7053E4"
+    },
+    {
+      "class": "text",
+      "id": "D41775CF-1530-456E-83E2-F45C927A6020"
+    },
+    {
+      "class": "text",
+      "id": "6880E10E-F974-44E5-8F52-8393EFA3C027"
+    },
+    {
+      "class": "text",
+      "id": "EB191A54-7A92-4FDA-B688-5D4F2904BB44"
+    },
+    {
+      "class": "text",
+      "id": "E9431572-4C11-452E-B786-4714715111B1"
+    },
+    {
+      "class": "text",
+      "id": "38EC0F9C-48C3-4C47-B10F-A205262C94BF"
+    },
+    {
+      "class": "text",
+      "id": "D12BF636-793B-4F06-9745-F0FDE276E1E5"
+    },
+    {
+      "class": "text",
+      "id": "5B76803A-BCB9-41C1-BE6B-CE820BBE1E8E"
+    },
+    {
+      "class": "text",
+      "id": "D2F26569-4150-4ADA-B206-656AE58C6063"
+    },
+    {
+      "class": "text",
+      "id": "3C819673-2685-4D50-A286-1452AD844E6B"
+    },
+    {
+      "class": "text",
+      "id": "670CB5D8-FA08-4448-8ECA-0E24C1D87F2D"
+    }
+  ],
+  "name": "profileAboutList",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.invisionlabs.data": {
+      "json-plugin-data": "{\"name\":\"dataStaff.json\",\"paths\":{\"selection\":[],\"repeat\":[\"hometown\"]},\"path\":\"70267AD9-3F1F-4754-A608-BD39349B6116.json\"}"
+    }
+  }
+}

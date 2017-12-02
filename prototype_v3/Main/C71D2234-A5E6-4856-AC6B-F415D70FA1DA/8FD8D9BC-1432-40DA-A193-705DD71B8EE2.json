@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 48,
+    "height": 56,
     "width": 220,
-    "x": 154,
-    "y": 844
+    "x": 224,
+    "y": 836
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -30,6 +30,7 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "btn_email",
   "nameIsFixed": false,
+  "originalObjectID": "D0FAE10C-C370-4323-811C-FEBF5FC6D9DD",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

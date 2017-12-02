@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 12090,
+  "changeIdentifier": 12099,
   "do_objectID": "8657AE02-4EA5-43B9-AAE0-563D689223CC",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 76
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -50,7 +50,7 @@
   ],
   "name": "ic_food",
   "nameIsFixed": true,
-  "originalObjectID": "E0339399-AC2D-4FA5-ACF8-9E57A6EFEFA7",
+  "originalObjectID": "8657AE02-4EA5-43B9-AAE0-563D689223CC",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

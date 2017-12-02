@@ -15,8 +15,8 @@
     "constrainProportions": false,
     "height": 248,
     "width": 248,
-    "x": 386,
-    "y": 630
+    "x": 516,
+    "y": 516
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -33,7 +33,12 @@
   "originalObjectID": "9EEE9205-F813-4B77-8250-3A77BD320644",
   "overrides": {
     "33C61A4D-A16A-4973-AF9E-28FEFD6BAD97": "Waiter",
-    "3BBF183A-0132-415D-BFB5-DC6FD68341B0": "Marcos"
+    "3BBF183A-0132-415D-BFB5-DC6FD68341B0": "Marcos",
+    "9F9874A5-5C3C-4166-BB59-375FBD79BBAB": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/a1b449d6fdcb605b24c536328cb9d166f3e46f6f",
+      "_ref_class": "MSImageData"
+    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,

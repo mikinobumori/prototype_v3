@@ -15,8 +15,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 200,
-    "width": 200,
+    "height": 290,
+    "width": 290,
     "x": 0,
     "y": 0
   },
@@ -34,6 +34,7 @@
   "nameIsFixed": false,
   "nineSliceCenterRect": "{{0, 0}, {0, 0}}",
   "nineSliceScale": "{0, 0}",
+  "originalObjectID": "34CA876E-3DDD-43FD-8063-E61D22AC759A",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

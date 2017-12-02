@@ -14,8 +14,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 32,
-    "width": 24,
+    "height": 40,
+    "width": 30,
     "x": 0,
     "y": 0
   },
@@ -41,6 +41,22 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3058823529411765,
+          "green": 0.1568627450980394,
+          "red": 0.07058823529411765
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 1,
+        "thickness": 2
+      }
+    ],
     "endDecorationType": 0,
     "fills": [
       {
@@ -48,9 +64,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8588235294117647,
-          "green": 0.5960784313725489,
-          "red": 0.09803921568627445
+          "blue": 0.9764705882352941,
+          "green": 0.9764705882352941,
+          "red": 0.9764705882352941
         },
         "fillType": 0,
         "isEnabled": true,

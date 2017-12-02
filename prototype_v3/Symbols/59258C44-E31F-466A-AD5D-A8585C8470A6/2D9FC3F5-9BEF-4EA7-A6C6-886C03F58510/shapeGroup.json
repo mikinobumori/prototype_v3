@@ -17,7 +17,7 @@
     "height": 72,
     "width": 72,
     "x": 0,
-    "y": 0
+    "y": 6
   },
   "hasClickThrough": false,
   "hasClippingMask": true,
@@ -35,7 +35,7 @@
   "name": "Mask",
   "nameIsFixed": false,
   "originalObjectID": "2D9FC3F5-9BEF-4EA7-A6C6-886C03F58510",
-  "resizingConstraint": 51,
+  "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

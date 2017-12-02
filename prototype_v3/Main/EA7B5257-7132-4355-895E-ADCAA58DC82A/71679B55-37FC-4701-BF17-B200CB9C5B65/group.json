@@ -14,9 +14,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 88,
-    "width": 1288,
-    "x": 24,
-    "y": 1024
+    "width": 1200,
+    "x": 40,
+    "y": 910
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,

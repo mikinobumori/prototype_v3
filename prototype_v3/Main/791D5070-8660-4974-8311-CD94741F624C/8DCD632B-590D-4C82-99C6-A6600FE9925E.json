@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "8DCD632B-590D-4C82-99C6-A6600FE9925E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 240,
+    "width": 500,
+    "x": 742,
+    "y": 72
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "welcomeBlurb",
+  "nameIsFixed": false,
+  "originalObjectID": "152C8D55-9BD0-4C28-B051-0B5AD4B4E566",
+  "overrides": {
+    "671EA44A-761C-41B0-82CD-E1E625A84444": "List",
+    "6CE2B75B-17E6-4408-887E-EDE71A973E9A": "Make a list of the things you’re interested in and have it on-the-go."
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "686AB487-0F37-461B-B668-6729C16D9A42",
+  "verticalSpacing": 0
+}

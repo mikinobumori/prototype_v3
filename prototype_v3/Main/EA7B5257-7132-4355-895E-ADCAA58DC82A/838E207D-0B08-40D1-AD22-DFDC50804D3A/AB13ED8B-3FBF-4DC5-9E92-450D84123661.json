@@ -31,6 +31,8 @@
   "name": "activityCard",
   "nameIsFixed": false,
   "originalObjectID": "8FB80139-70A1-4C75-A82D-E56DF279843D",
+  "overrides": {
+  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

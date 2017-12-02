@@ -14,8 +14,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 48,
-    "width": 320,
-    "x": 320,
+    "width": 426.6000061035156,
+    "x": 426.6000061035156,
     "y": 0
   },
   "horizontalSpacing": 0,
@@ -30,7 +30,7 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "tab_hosts",
   "nameIsFixed": true,
-  "originalObjectID": "162AAAEA-3E5B-453E-896D-A19F842BF647",
+  "originalObjectID": "C9EF2076-F1A2-4236-990F-BBDFF4E618EC",
   "overrides": {
     "3D69D063-8300-4315-B784-C87B93285757": "Tiles Hosts"
   },

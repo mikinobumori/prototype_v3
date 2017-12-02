@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 3,
-    "width": 3.5,
-    "x": 0.5,
-    "y": 3
+    "height": 3.857142857142856,
+    "width": 4.199999999999998,
+    "x": 1.599999999999909,
+    "y": 4.857142857142861
   },
   "hasClickThrough": false,
   "hasClippingMask": true,
@@ -34,7 +34,7 @@
   ],
   "name": "path",
   "nameIsFixed": true,
-  "originalObjectID": "8FF11F5D-28D3-42F3-B41E-B9BA5C64368B",
+  "originalObjectID": "1F2E1726-056C-4E96-976D-DA4F50A8983E",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -47,14 +47,14 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.3058823529411765,
+          "green": 0.1568627450980394,
+          "red": 0.07058823529411765
         },
         "fillType": 0,
         "isEnabled": true,
         "position": 0,
-        "thickness": 1
+        "thickness": 2
       }
     ],
     "endDecorationType": 0,

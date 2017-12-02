@@ -20,7 +20,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 916,
+    "height": 776,
     "width": 1280,
     "x": 0,
     "y": 2400
@@ -41,10 +41,6 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "shapeGroup",
-      "id": "B2EFA490-21DD-484C-9516-C575207A43ED"
-    },
     {
       "class": "symbolInstance",
       "id": "EF99B8DB-660B-4A55-9A56-716F9ED635A8"
@@ -76,8 +72,35 @@
     {
       "class": "group",
       "id": "3CDDDCDC-689B-4FFF-BE18-0AEE04BDC1FA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "042AB55F-7589-484C-8C0A-D17F26F4E9E1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A4C9FEF4-AE8E-4E8B-8B07-B40C717B5CE3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CB7613B0-68DE-4EA7-833B-F7F3070FC191"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 78,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 24,
+    "guttersOutside": false,
+    "horizontalOffset": 40,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
   "name": "Hosts",
   "nameIsFixed": true,
   "resizesContent": false,
@@ -95,6 +118,7 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      425
     ]
   }
 }
