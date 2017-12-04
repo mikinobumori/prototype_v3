@@ -1,0 +1,169 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "ADC99FD3-6D63-4B06-8E56-03BB6517ED2A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 776,
+    "width": 1280,
+    "x": 15195,
+    "y": 7184
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "DDFF218A-1661-4106-ABC7-E6769CED760C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "79B5E2D0-5BC9-4065-A2CE-34693CD8685D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4F9EABA5-0C6B-4070-91F5-38A509B079B1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DE301294-F28C-410D-A825-7E6F7E87C6AD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AB9474C0-C870-42C7-A5B8-984ACE208975"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2EEFD936-E058-45C1-B08A-1CDF0B2BE474"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D1CC0160-12D3-455F-B743-C4908B277DF5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6612DE98-03A4-4BED-B7E7-EBC2878AB392"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C426B556-EB57-4973-8CF4-3A6F6B36A555"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5F1ADA4C-B3A5-435D-842C-FB6B7F9F94B7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4F82047C-32DF-49F2-A520-AA458681EBFC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B25A46E6-92CD-4D8B-95E7-86445D6AC384"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A013BD01-AB38-43CD-A1F2-BC3AD8EBE411"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A652DAE0-2B75-46A4-A5D7-AF0E2F723FFF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E07702B5-9D56-47DF-926A-2054B21CE980"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2F624DB1-F421-4EDA-A6FA-17355434B18B"
+    },
+    {
+      "class": "group",
+      "id": "6AFCC0AF-F12B-466D-9771-9DCA3B2EE2E0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5A440804-3E62-4C4C-A8C9-61D918D9E313"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DFD7F711-00ED-4EFB-9DC3-1FE893ECD026"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2B215846-E098-4176-97B9-685B9D054D81"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A7E8E203-79AC-43EA-A8B8-5112F57B0E7B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F94955CC-60FF-4050-879B-18AF3A36C5F7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BC60C67E-A4DC-45D9-A840-3ABDCF8F766A"
+    },
+    {
+      "class": "group",
+      "id": "1C400166-08C8-4088-B660-D601E168F249"
+    }
+  ],
+  "name": "Golden Gate Cafe, Funchal Map",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

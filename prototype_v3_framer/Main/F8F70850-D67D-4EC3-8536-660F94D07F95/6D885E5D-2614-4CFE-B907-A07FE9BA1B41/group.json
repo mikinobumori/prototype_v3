@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "6D885E5D-2614-4CFE-B907-A07FE9BA1B41",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 162,
+    "width": 425,
+    "x": 845,
+    "y": 260
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "11FDF1BF-E10D-4680-A880-9F184E8549A9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D04CA183-FD29-4F05-894F-F510EBB4592D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "249E6992-BD9A-46E4-9A04-C4382B6FB389"
+    },
+    {
+      "class": "bitmap",
+      "id": "B0F1574A-672B-422C-AC9E-C4A18FA55606"
+    }
+  ],
+  "name": "flair_spot",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

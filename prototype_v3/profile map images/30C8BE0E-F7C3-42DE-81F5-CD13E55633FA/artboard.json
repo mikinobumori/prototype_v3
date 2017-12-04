@@ -1,0 +1,109 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "30C8BE0E-F7C3-42DE-81F5-CD13E55633FA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 600,
+    "width": 400,
+    "x": 1561,
+    "y": -240
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "342E2656-53DD-4CAA-9ED1-6427EFAF55C0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DB6EC87B-B92C-4F0F-B012-A272C6A21C34"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0CE57658-5123-4FA8-90BE-EE55966D29FA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "860B0B4B-5EB3-4DF7-9BC2-1F029FF3AD8D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F20DA223-6DEE-4F80-8479-41A0AE2FE5E8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E0940328-2305-4AFA-85A8-5F2FB876F624"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "63934F8C-67E4-443C-839C-3A87DDA494E2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4BF902E7-5BD2-4938-9D46-EE672F595223"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "73E4D55D-DEE0-4404-83F2-6B88880AF486"
+    }
+  ],
+  "name": "profile_map_Marcos",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

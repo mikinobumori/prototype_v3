@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "6C1A77AA-46D0-400B-BA5E-F3843B2696D6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 161,
+    "width": 425,
+    "x": 844,
+    "y": 143
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "00F79907-EA14-4EC1-AFC6-3650DFC8D2CD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "93278F15-FD8C-4892-867B-B709E64AEF45"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "94522D64-AE20-4C2F-9254-81AC3F92BAA1"
+    },
+    {
+      "class": "bitmap",
+      "id": "D5D2C747-53FA-4567-B9A2-4577954EA0B9"
+    }
+  ],
+  "name": "hovercard",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

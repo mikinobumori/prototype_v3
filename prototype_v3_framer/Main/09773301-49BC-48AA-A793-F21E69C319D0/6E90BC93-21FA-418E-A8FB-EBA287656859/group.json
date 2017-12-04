@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "6E90BC93-21FA-418E-A8FB-EBA287656859",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 162,
+    "width": 425,
+    "x": 6,
+    "y": 368
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F984EEDC-09EA-43EB-8B9E-ADB1FB6E9D17"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "861B9B0C-825A-4884-8127-9029A9A81F93"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7518F29D-D58C-49F0-AFCB-A854912A154D"
+    },
+    {
+      "class": "bitmap",
+      "id": "C0597EB8-60F4-469E-B6CD-F2BDE7A8A7B4"
+    }
+  ],
+  "name": "castelo",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "9D876648-8A39-4241-8B4A-F1366F4497C1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 42,
+    "width": 142,
+    "x": 354,
+    "y": 342
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "209DD884-C424-41ED-9AAC-2A6546986C5B"
+    },
+    {
+      "class": "text",
+      "id": "9D276352-8001-40E8-A00F-47B1C0D6FCF9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9379F681-5F66-4878-925C-189A84DBA583"
+    }
+  ],
+  "name": "santo_antonio",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "D04CA183-FD29-4F05-894F-F510EBB4592D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 130,
+    "width": 248,
+    "x": 11,
+    "y": 5
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 5,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 1,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "hovercardTop",
+  "nameIsFixed": false,
+  "originalObjectID": "366E8B86-DAAE-45C0-B18B-70F4B54F87B5",
+  "overrides": {
+    "371D2485-F8B2-4A19-96D5-1F0BE5C02CB2": "Ana's recommendation",
+    "3A046868-E36F-428C-8CA4-4E302939F2E1": {
+      "symbolID": ""
+    },
+    "4925DCA1-8DF2-4474-87D1-95BA141C40D1": {
+      "2F071130-6C73-4AAE-BD57-656527411821": "For kids"
+    },
+    "7CAC1C99-CD0B-4910-8E5F-0D5E34AA0B0A": "nightlife",
+    "9E1BEFFA-0AAA-485B-B179-CABECC6EBAF8": {
+      "2F071130-6C73-4AAE-BD57-656527411821": "Bar"
+    },
+    "A54A5EF7-08CF-46C3-99AB-DC371782FEB7": "bar",
+    "C6935AE9-EFCD-459E-9C97-5A88B573F076": "Flair Spot",
+    "E7ADC619-837C-42B3-8F2B-D9C60588ACBF": "A bar in Old Town with good cocktails and a relaxed atmosphere",
+    "EA98D4FC-BA71-425B-92E5-99F3206E000F": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/bcceca0e933fb6168d0241407648103f4177d5c6",
+      "_ref_class": "MSImageData"
+    },
+    "F155C9A9-8688-473B-83D1-BE4CF54E198D": "funchal"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8157A71E-8304-4FE8-92FF-4ACAB52B4D39",
+  "verticalSpacing": 0
+}

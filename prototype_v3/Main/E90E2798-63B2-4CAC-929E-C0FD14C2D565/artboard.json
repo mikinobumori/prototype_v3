@@ -1,0 +1,193 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "E90E2798-63B2-4CAC-929E-C0FD14C2D565",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 776,
+    "width": 1280,
+    "x": 0,
+    "y": 7184
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "0715187D-A364-48A5-A616-B43299EF5DF8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E06F3A20-2C0A-4500-B829-0A1F9427FF5E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BE42ED8D-5B66-4945-9E2E-CB32D406ED94"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EB2A27FA-0B41-43F4-B6F7-6E7E760866A9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8F3FB334-9C2C-4BEE-BA56-9E0D597EEF68"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7B3BC535-84D7-4EEA-A6A4-196A11574F46"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "55E58752-F8EE-4AB2-8068-D092030ED76C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BD21D588-0293-4EFA-B2A5-D20CA4DA266F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "36C17ECD-43B0-4DC9-9560-5A9F69008685"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "138F9E45-2E11-430C-9A0C-0177110FF0E9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9908E345-5445-4790-B4EF-827BC487FC2A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EDCE8E9F-6E32-4CF8-B205-DD574BCA2046"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "40768A0C-7AD2-46E0-BF00-BA749C699748"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "79154CAF-F419-48AD-942D-9600BC47A942"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "418B1572-A490-43EC-91A7-6E3061994B89"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "00091DCD-6288-43D7-9CB6-8CC15A7B15A3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "16D7B323-5913-4EA9-9781-A349C8F51B44"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B4495051-17E4-427D-AEEE-68173AC2436A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BC3F5F04-4C1E-4629-8661-004804862EDB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AD5E488C-EF7E-414D-B91C-D42C4A5155C9"
+    },
+    {
+      "class": "bitmap",
+      "id": "29E66554-70DB-4754-94D9-A9D5C490A3F7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FB02EF8D-7190-410E-B3B3-F78A3CDAED45"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "45C1358A-237E-44E8-81F9-9DAC40F64548"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7626F830-763E-4E9D-B154-FBEAFF48260C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C6F991F2-7551-428D-844C-A94D0E6F9BA8"
+    },
+    {
+      "class": "text",
+      "id": "650EC483-5B9F-4B6E-8A4D-2DF4C637D095"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CD829675-5042-4123-A0F1-9D0E4031158A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BE4F0719-A9A3-4C8C-AABE-37DF933CD0B3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B0C179D8-0F37-47EA-AC7A-05E7E1D9D7D4"
+    },
+    {
+      "class": "group",
+      "id": "A1934244-C0D4-453C-9FCE-08D4A41FC99F"
+    }
+  ],
+  "name": "Funchal Map Overview",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

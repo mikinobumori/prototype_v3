@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "E542DCC6-223F-4385-9B26-B8F228578EDC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 114,
+    "width": 1280,
+    "x": 0,
+    "y": 122
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "intro",
+  "nameIsFixed": true,
+  "originalObjectID": "AB2B8027-5453-4F42-A4C5-70D80A0F9D14",
+  "overrides": {
+    "0CE47D90-369B-49D1-A489-727168EED472": "~10 minute drive / ~20 minute walk from Tiles",
+    "B2FE1B9D-F8A8-4F09-9E3C-5BC31469F849": "Funchal"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "83E6D357-8AEC-47FB-9EA5-51C52AB86160",
+  "verticalSpacing": 0
+}

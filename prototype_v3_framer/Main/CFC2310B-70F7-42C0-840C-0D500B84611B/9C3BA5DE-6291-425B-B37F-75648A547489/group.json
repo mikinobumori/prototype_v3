@@ -1,0 +1,101 @@
+{
+  "_class": "group",
+  "do_objectID": "9C3BA5DE-6291-425B-B37F-75648A547489",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 350,
+    "width": 480,
+    "x": 400,
+    "y": 249
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C87BD1F1-7D12-410F-9027-A32D0D8389C2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "70068BBF-0973-4F1B-9A97-A58CAAA12041"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "528AACE8-1835-4448-9D4C-B300859ED8F9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "955CF1B1-7415-4F47-8C04-2DB1BFCE2AF0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "846CCA40-4521-4B81-B7FB-80B8D05DB18D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "17B26A4B-2C09-4864-BE19-F1FD6CEF79D2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1CC16792-1AD7-4AD7-9952-BE492CC6A052"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A41B1663-2165-485F-B31D-69F21BB1A9FA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "014CF1DC-4C28-496F-96AD-6B3580DE7291"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "54908B1A-3E9D-4D64-BF3D-0C1D30A4EDB7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9792D53F-EA37-45D4-9B97-D6204C4C3C2C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "13F038D8-F26E-49B6-8BEB-5243D265ED0F"
+    },
+    {
+      "class": "text",
+      "id": "C127E17B-C249-414D-978F-0F8CCDD98FD4"
+    },
+    {
+      "class": "text",
+      "id": "098A6DB0-3850-4187-A8FC-215C80581187"
+    },
+    {
+      "class": "text",
+      "id": "81C4D238-AA7C-412F-AB36-D0C7F2F4694D"
+    }
+  ],
+  "name": "screenmock",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

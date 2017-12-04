@@ -1,0 +1,97 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "96F57561-6A7B-416C-9C87-589A2192E745",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 776,
+    "width": 1280,
+    "x": 1387,
+    "y": 9756
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "0473184B-6517-4B7E-B8B9-E77D91E33165"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "66BCD4DA-E2CA-4A9A-9FB5-CA2C861AEA9A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F5E70970-25FF-4C86-B7C4-71892EF058DC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "54B8FFDD-AA05-4E91-8AD0-E603B74010F6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3649DBEA-C8E0-427B-A0A6-D2DC459012A9"
+    },
+    {
+      "class": "group",
+      "id": "C6553C50-53F2-4919-8948-4A48255C8E48"
+    }
+  ],
+  "name": "Natural Pools, Porto Moniz Map",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

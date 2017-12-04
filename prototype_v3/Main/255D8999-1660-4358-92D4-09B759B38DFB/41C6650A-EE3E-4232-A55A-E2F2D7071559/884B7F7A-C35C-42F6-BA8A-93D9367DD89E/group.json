@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "do_objectID": "884B7F7A-C35C-42F6-BA8A-93D9367DD89E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 16,
+    "width": 16,
+    "x": 8,
+    "y": 234
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "95EF2554-E207-45F5-A014-F8451622D665"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "99172F7C-99B7-4483-8E1B-9C742007C523"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "25AC4836-2940-488E-A86D-E98E861B9C74"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5E73EBB7-2CE9-4F91-9178-6F8DBE047651"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B3292270-8531-4BCE-A1E0-0A1F0BFED670"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D2BBEB6D-856B-4756-88D4-8606689987EE"
+    }
+  ],
+  "name": "icCar",
+  "nameIsFixed": false,
+  "originalObjectID": "81BF8AFE-AAB0-4CD1-9AAE-764499F26CA2",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

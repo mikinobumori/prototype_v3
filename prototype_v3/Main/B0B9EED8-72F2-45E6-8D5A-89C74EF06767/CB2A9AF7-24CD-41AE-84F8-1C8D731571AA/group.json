@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "CB2A9AF7-24CD-41AE-84F8-1C8D731571AA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 680,
+    "width": 1280,
+    "x": 0,
+    "y": 120
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "08733F6A-0EB0-4AC2-9AF8-303DF50BFAC2"
+    },
+    {
+      "class": "bitmap",
+      "id": "37279E61-F7D1-4BEF-BEF1-1CDB681EF613"
+    }
+  ],
+  "name": "paulDoMarMap",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

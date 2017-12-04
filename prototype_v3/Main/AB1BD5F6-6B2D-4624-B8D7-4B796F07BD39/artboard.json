@@ -1,0 +1,173 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "AB1BD5F6-6B2D-4624-B8D7-4B796F07BD39",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 776,
+    "width": 1280,
+    "x": 19335,
+    "y": 7184
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "20BF7B8D-33D6-4AB6-A026-2B0C802AD4B7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D5E1DB6B-0FFA-4DF2-81A1-F7A0F7DF0A3B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DB547692-47AE-4748-B6F0-9CB2974E2B12"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1B81A493-3079-4E36-A6D5-0BFB3C2041AA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "07FA8952-DDFB-4D45-AB90-F2D2CB6CC54C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "013759AB-2FAB-4EB0-9BAC-A981931D0F38"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "58B2E92C-B891-462C-8210-C163773833E9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EFA91342-4801-43D5-8DBD-CBB71799F13C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "36293475-90A8-4D7A-8405-806CFE70B1D8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "220A1BB3-FA7E-4597-877D-35B0BE586835"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F2861ED6-E0E0-47B2-8542-744A48026CA7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6A51FDDB-8751-455C-8A1A-A43FA34A6856"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "80845372-65D0-4E7A-9518-B1BD78222A71"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "522857B2-777E-40D3-BE23-D6A772FE5BD3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "61C79325-8442-43C2-8176-D7A2044A4A45"
+    },
+    {
+      "class": "group",
+      "id": "869019E3-7EB2-4D12-B21F-05C339935737"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C97B98ED-E2E8-4568-A899-35DB5453049C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "42F4C1DD-F43D-4D59-8BC9-3A42BAC22734"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "002C132E-E340-4B4B-8817-399A87C0CA41"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6B60A0F3-C67E-4DC8-8433-3EEE1792F46D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1C7DD190-E4E2-4F0A-AF01-11376F6E606A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A5EF8420-FEC5-4F0E-84D0-FE55F13C9AE4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DA05C9B2-025D-4AC0-AB52-38E0C05F9240"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "57D60D27-0D57-47FB-9C18-2EC0C908DAB4"
+    },
+    {
+      "class": "group",
+      "id": "5294011F-25D0-4E72-9F54-C49292FA4587"
+    }
+  ],
+  "name": "Avenida do Mar, Funchal Map",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

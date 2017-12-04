@@ -1,0 +1,117 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "C77B1C4D-8E6D-4060-8AC8-F6E27DF8EBF6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 776,
+    "width": 1280,
+    "x": 2772,
+    "y": 12328
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "140BD380-7424-4C7D-B497-FAD28B0EBB25"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5702BF91-E88C-4A67-9956-B62597FE07ED"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A15BCF5F-0193-4CFC-B38A-9EB60877EE10"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BD0E78DC-F844-4970-AE52-42D4E833D849"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "38FBA0F9-3CBC-4C29-AB04-F3E2F941CD7E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8EABE40D-91B8-4EE3-A702-756BC509DA42"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E9F11E55-7B3E-4FA2-BFD7-30A97B6FAB0E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0A661A51-5A5F-41DE-8A26-28AFED6195B6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C1A6377E-7D08-4F20-92F0-36C196C21660"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "138D4AA2-0952-4DEF-B177-6FFDD50B0D73"
+    },
+    {
+      "class": "group",
+      "id": "033DD49F-1DA5-425A-B704-267ABC85160C"
+    }
+  ],
+  "name": "Pes Descalcos, Paul do Mar Map",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

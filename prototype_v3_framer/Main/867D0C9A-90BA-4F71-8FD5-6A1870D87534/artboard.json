@@ -1,0 +1,121 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "867D0C9A-90BA-4F71-8FD5-6A1870D87534",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 776,
+    "width": 1280,
+    "x": 5537,
+    "y": 8470
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "69B13895-A5A0-4BCC-8C6E-7194EEE8C1CD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "50BA4830-9AA2-4D25-8CF5-E4CBB26BAD7F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "443538A8-848B-488D-BDC5-B933414E5DA7"
+    },
+    {
+      "class": "group",
+      "id": "EECBC906-6CBC-44ED-8A78-E6A1906FE067"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E76D2232-3B12-4526-B027-B5D83D4F7EE9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "93DE6547-0F69-4BD9-98C5-7FADD5B5402D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BB1F0CA6-FD64-42D8-BE85-C401CC252273"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "693EED01-0364-4E39-88F1-49454F8FE4A7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ECF06720-D684-4874-97C3-F089E17D3B94"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0520538B-39F3-460B-9914-FBC4EFE340BB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DB4CE99C-92A8-4C7B-8E6A-534C222256C3"
+    },
+    {
+      "class": "group",
+      "id": "322054BF-EC70-46AD-BFE2-7013AE8644DA"
+    }
+  ],
+  "name": "Cabo Girao, Camara Map",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

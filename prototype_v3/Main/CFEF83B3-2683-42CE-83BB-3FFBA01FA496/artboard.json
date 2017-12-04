@@ -1,0 +1,165 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "CFEF83B3-2683-42CE-83BB-3FFBA01FA496",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 776,
+    "width": 1280,
+    "x": 24855,
+    "y": 7184
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "2EB42419-6420-40FC-A680-C5109C472E80"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1716F905-9F50-4474-A4BE-B4118C0D87D5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "74AEE19C-9275-47A7-89E4-4D833634B188"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2AF090A8-3B1B-4275-8D54-04512513D9D7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "50565FDC-3468-497A-8EFA-A249F0A78CF3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3A1467A1-A347-407B-8B35-EDF725F948D8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F0763AA2-27BA-4994-B61B-4FFFBD73AC58"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6867466E-21E4-4466-991C-3110DEB8D7BF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1E758253-63C0-4A47-B544-4C6E6B51E5E8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F6C95F97-B4DE-4D76-981A-49A31D488279"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CC88F9A6-3013-44DE-B10C-EB49DB98FC5A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E542DCC6-223F-4385-9B26-B8F228578EDC"
+    },
+    {
+      "class": "group",
+      "id": "6EF48C2B-0954-462C-B94C-7F720F423803"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "459E05D0-9DCC-48BE-9394-E439C5746CC3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DF86AD34-F2A2-4DE2-A518-761581AF7CAA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AC8F26FD-95D6-4A62-A695-D26B96817123"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E6AEABF3-5C66-4152-A3A2-C7FB16284776"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CA24F7F4-BE5A-4D7C-B186-55858D47394D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "44C712AA-D594-4708-8A97-5592E99200E3"
+    },
+    {
+      "class": "group",
+      "id": "6C1A77AA-46D0-400B-BA5E-F3843B2696D6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "93EF8D11-50C4-4661-B61B-F6611EB1B6FC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EAA904D6-A6B5-4FDE-B11B-D6578386BDD7"
+    },
+    {
+      "class": "group",
+      "id": "FECFB95F-8F4F-4360-AEF2-D93D50F26E3A"
+    }
+  ],
+  "name": "Zona Velha, Funchal Map",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9764705882352941,
+    "green": 0.9764705882352941,
+    "red": 0.9764705882352941
+  },
+  "do_objectID": "3D47DBB2-E36E-4380-894E-2E9F8A077A56",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 776,
+    "width": 1280,
+    "x": 2720,
+    "y": -1795
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "E47FE557-3E4E-4A45-AF6A-DC3FD6CC8222"
+    },
+    {
+      "class": "text",
+      "id": "A746253B-35A2-4AC8-B749-366C9637A26C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "94A0BDC0-1921-4E4B-B697-6FA4CCEC4BE3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CC9C7A02-79A1-48C2-8B66-1C062169021B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7771C3F2-E368-48D2-8178-160B0C088F12"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BA8E4433-25C6-47D2-B5BB-213D7AEC0700"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "64A47EB9-CCEA-4CB0-B644-0D8CFAD71E78"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CF1F107A-74F3-47F6-B5A5-EB907C332CDF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "013E06BA-41A1-4134-A94C-F9432C0AB090"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C54748ED-4F0F-48D1-A808-31002C4114F0"
+    },
+    {
+      "class": "text",
+      "id": "C5F54E41-4D10-4F57-9CE7-004A82BA6D99"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AA26B757-8062-4346-B384-E9B32C9D0233"
+    },
+    {
+      "class": "text",
+      "id": "BBAD40D0-F73D-4FB0-8F2A-03D8BDD063E4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "59EAEA28-D76A-4DD6-B710-F9FCB949642F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C328D49C-3638-4D81-A655-6E757E3088DD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F8295EF2-2F09-47C6-85D5-913ABAB00949"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CFE5A531-ED54-4C10-98E6-D4DCE45F26C7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "33146CDE-9C2E-4D92-9A13-8FDD2E88648A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0CB2D89E-2BEF-4348-92AD-AA90425CB6AF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ACDEE294-17D9-4808-BC1E-F0D3D231B48D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E02BD926-1480-4D11-BAB8-BDCF87FB160D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F8F4937F-0C01-46B2-8CC5-314BD7CF56F8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "85A35817-CA04-492F-8B49-7CCF5660575F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "05DD6731-9DF5-48CF-8F3F-FDEC3B3AC654"
+    }
+  ],
+  "name": "PreferencesThree",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

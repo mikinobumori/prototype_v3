@@ -20,13 +20,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 2190,
+    "height": 2240,
     "width": 1280,
     "x": 1380,
-    "y": 2400
+    "y": 2900
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -44,6 +44,10 @@
     {
       "class": "shapeGroup",
       "id": "7AE6840E-6887-42E5-9339-2C1F63C5819E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C5FFB1EA-6A9E-4123-B354-8F7974FAC4D3"
     },
     {
       "class": "symbolInstance",
@@ -123,14 +127,6 @@
     },
     {
       "class": "symbolInstance",
-      "id": "2284CA54-AA14-4340-A301-EC9AE2280347"
-    },
-    {
-      "class": "group",
-      "id": "AB0C373E-9B28-4C26-8C15-E33E883A568B"
-    },
-    {
-      "class": "symbolInstance",
       "id": "A9608DCA-4AD9-499E-838B-2642CDAA08B2"
     },
     {
@@ -148,6 +144,10 @@
     {
       "class": "shapeGroup",
       "id": "46B80310-7935-43F7-830A-122B3AEC8AD6"
+    },
+    {
+      "class": "bitmap",
+      "id": "39A075AE-5A33-4311-9062-290943F67835"
     }
   ],
   "layout": {

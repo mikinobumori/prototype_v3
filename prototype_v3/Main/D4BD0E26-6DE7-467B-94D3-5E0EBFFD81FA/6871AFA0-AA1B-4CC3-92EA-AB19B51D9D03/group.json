@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "6871AFA0-AA1B-4CC3-92EA-AB19B51D9D03",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 162,
+    "width": 425,
+    "x": 379,
+    "y": 249
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0890A464-9E8E-4597-8016-2690158D86EF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D678A5E1-F309-41C6-AA1E-C0FE7831A00A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9CE213DD-6939-473C-8481-18EED567F4B8"
+    },
+    {
+      "class": "bitmap",
+      "id": "75AC4D00-40B2-4AE5-AAC5-002E1FD413F2"
+    }
+  ],
+  "name": "toboggan",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

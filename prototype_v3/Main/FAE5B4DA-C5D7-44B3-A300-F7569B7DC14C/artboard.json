@@ -1,0 +1,117 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "FAE5B4DA-C5D7-44B3-A300-F7569B7DC14C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 776,
+    "width": 1280,
+    "x": 6922,
+    "y": 8470
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "930BF5EB-1995-4211-8644-E176CF12AFE5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3DAEBA57-6702-4479-955F-3821B74BC9FF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1B886EFE-F678-4CCF-AB4A-B15C29BB6772"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DB687B33-3657-4986-B188-C8A440D73C88"
+    },
+    {
+      "class": "group",
+      "id": "7BEB0E0D-D532-4EC3-AB83-CACAC1EDFFE4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F735DEAC-FBD7-42B2-9655-795B27E1032B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FAB8A33C-8728-4CDC-9DF8-04C0503793B8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1BDB5B44-DD7F-4C42-8640-7BAC57507C95"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EEABE1FA-B14C-483F-958B-ED30B4C88109"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "716FA2C2-070C-4337-9CE9-CDA7CC7237EA"
+    },
+    {
+      "class": "group",
+      "id": "8266CE1D-974E-4D43-83F2-7FED95FC93F7"
+    }
+  ],
+  "name": "O Lagar, Camara Map",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "1571F126-B5BF-47AF-B70A-13FDA6FB0EE1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 600,
+    "width": 400,
+    "x": 661,
+    "y": -240
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E5E51FF0-A336-4775-8113-37E65A930814"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "423F3989-A480-48CF-8712-A6CDE08401ED"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "28666A46-03B8-4BF6-A445-0AF61AAFA573"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A68D8D0A-575D-4834-9ADD-458155C8A82D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "833CC626-1539-4C5D-BF2F-7E6910F0A49C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1845CA7B-2F2D-40F1-A6DA-E64C6C505B59"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D10F5172-B9E5-4E07-922A-7411C268BF40"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A5A385AB-0AEC-40E0-BAB1-9A3F73C01071"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E9D511FC-A317-410A-93C1-189FFD95B677"
+    }
+  ],
+  "name": "profile_map_Kelly",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

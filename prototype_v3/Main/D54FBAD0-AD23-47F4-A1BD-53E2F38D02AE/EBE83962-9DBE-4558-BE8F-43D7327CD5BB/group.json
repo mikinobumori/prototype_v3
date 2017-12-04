@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "EBE83962-9DBE-4558-BE8F-43D7327CD5BB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 162,
+    "width": 425,
+    "x": 831,
+    "y": 281
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "80A4A4FD-2A08-45CE-9FC1-5179B364EE39"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "45736E99-902C-49A1-886B-1E5C63E08FA3"
+    },
+    {
+      "class": "group",
+      "id": "EBE2482C-03AF-4CA6-A6CE-CF53E2F1738B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CF3877AC-09B2-4ACA-B811-FA2F7DEB9E79"
+    },
+    {
+      "class": "bitmap",
+      "id": "020EA3EF-947C-4E9A-9EBA-167E3DCB7909"
+    }
+  ],
+  "name": "hole_in_one",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

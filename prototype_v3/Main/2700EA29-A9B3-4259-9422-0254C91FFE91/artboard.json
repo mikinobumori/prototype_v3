@@ -1,0 +1,113 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "2700EA29-A9B3-4259-9422-0254C91FFE91",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 776,
+    "width": 1280,
+    "x": 4157,
+    "y": 18758
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "586C1AF7-32BB-4779-8871-1745EAD2CB63"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D6AD26FC-4586-45FA-8511-024030DEA330"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FE87670F-74C8-4564-82D1-2D89284ECD65"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A78007A6-D1F4-4E85-A642-44EDBCF0D34F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B3AB0F52-F068-4CC8-8B00-E574B17B8B26"
+    },
+    {
+      "class": "group",
+      "id": "9FE33164-F37A-4E89-AE4B-BFC0851850DA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B846E56D-CFDD-4632-A77E-01E543BCFF26"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "697264B6-1CAF-462C-905C-E9C5B43E7C5B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D6AAE01D-D3AD-4D65-AF74-63AFD6587C46"
+    },
+    {
+      "class": "group",
+      "id": "908C4F7D-4D59-44E3-86FA-BD6D3B1F873E"
+    }
+  ],
+  "name": "Trompica, Hikes Map",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

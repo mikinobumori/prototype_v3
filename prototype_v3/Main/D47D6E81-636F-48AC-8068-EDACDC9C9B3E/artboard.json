@@ -1,0 +1,169 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "D47D6E81-636F-48AC-8068-EDACDC9C9B3E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 776,
+    "width": 1280,
+    "x": 22095,
+    "y": 7184
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E62FEA38-E37A-4533-9D6B-3F79AA8C30FD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2B54CA22-37AB-4BE0-A267-444D77EBB2F8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "98184A6F-EDAF-4DEC-BAAC-AE48C8AA8260"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2321010C-9DCD-4C44-BA4A-87EF5FC1C55E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "13F1F7DE-610D-4FD6-9986-4B5D2507D28D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A5C24202-F2AF-4B88-AE58-480FE0F1CF39"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0CEC1320-BE2C-4BA1-8817-F5A07F956459"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ADDE1079-DED9-4CD3-94E8-CCEDCFF21B89"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CB031489-C535-49B5-836E-A26BB090D21A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DB5B1F93-403E-4801-8850-5F7D30DF10FE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C51F40B9-D213-46C0-92B2-E6CA74191EC3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "091F9627-E2EF-4E35-9FA6-060A09AA0313"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "68A2DE53-6408-4AF5-9BA4-1DFD50807C17"
+    },
+    {
+      "class": "group",
+      "id": "A3F4DE4D-A091-42B5-8F9C-1BF04B8F39B1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3122A12F-C888-41CF-8438-65B34FD193B5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6064112F-E703-4792-840E-42161535066B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "36764D35-60A8-4040-BB5B-A170FE59E003"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E5803A7C-8E14-4DE9-8900-2B1110A8065C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3ACFA9E0-462B-40F1-A7B1-A7C075684F22"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F23649D5-6069-4A95-A427-24ED64F5E25E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9C5F2401-F2BE-45C4-AF91-8BB2BEE8F6B5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C27ED013-37F0-4FFB-88B0-6AB1D6DECD15"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BC06887E-79A0-4F4A-A633-E0DADAE32157"
+    },
+    {
+      "class": "group",
+      "id": "D2C3C961-C8E2-496C-A0F2-F2FAEA006917"
+    }
+  ],
+  "name": "Geladeria Mil Sabores, Funchal Map",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

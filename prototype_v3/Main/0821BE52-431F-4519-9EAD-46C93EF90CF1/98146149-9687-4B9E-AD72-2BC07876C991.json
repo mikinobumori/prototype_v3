@@ -15,7 +15,7 @@
     "constrainProportions": true,
     "height": 12,
     "width": 108,
-    "x": 604,
+    "x": 586,
     "y": 714
   },
   "horizontalSpacing": 0,
@@ -33,7 +33,7 @@
   "originalObjectID": "4F2FEEBD-5482-411A-922D-0A7D2CA430D8",
   "overrides": {
     "27E42C73-4998-46AD-99AD-B21E9736CF50": {
-      "symbolID": ""
+      "symbolID": "1A9B2C87-9E10-4694-B2A6-2AE12BBBC275"
     }
   },
   "resizingConstraint": 63,

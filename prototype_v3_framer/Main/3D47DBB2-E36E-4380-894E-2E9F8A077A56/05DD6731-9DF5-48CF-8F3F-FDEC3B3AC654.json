@@ -1,0 +1,51 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "05DD6731-9DF5-48CF-8F3F-FDEC3B3AC654",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 28,
+    "width": 360,
+    "x": 832,
+    "y": 242
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "checkbox_field",
+  "nameIsFixed": false,
+  "originalObjectID": "AE1B6F96-1DCE-46AE-A456-A884BD400D12",
+  "overrides": {
+    "9BDBF3BA-EFDA-4A12-B91A-DEB16845D57D": "bars & nightlife"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "041FAB53-13F2-4AF5-88AE-6CC36D5D3585",
+  "userInfo": {
+  },
+  "verticalSpacing": 0
+}

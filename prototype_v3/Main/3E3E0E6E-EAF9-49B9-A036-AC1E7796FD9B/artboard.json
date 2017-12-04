@@ -1,0 +1,165 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "3E3E0E6E-EAF9-49B9-A036-AC1E7796FD9B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 776,
+    "width": 1280,
+    "x": 9675,
+    "y": 7184
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "19306461-16F4-4784-9482-890D016D751E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "410C4A65-0347-4028-96E8-B1FD9934C051"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DE9AD984-EF41-41F8-99A3-625C233AA6EE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9B032E6F-104F-4577-8A9F-0663005C023C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6B36CD84-7197-4E76-A8D9-9422F10AC196"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CFE86492-C669-4E42-B087-76A964912C7C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9BF77622-288B-4785-BB50-1475EE0ED341"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "440F381C-6EDF-478D-9C25-89F83ADF88E4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "988F591D-D47C-4AAB-B7AA-D4934F61BD9B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D0681969-D3BD-4D14-A514-E17B09D649FB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "09052FE7-97FE-4B3E-AC0A-DED5398117BD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B324C12F-0B3A-4501-88A6-936743D4FA5F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "19DCBA43-D88B-4E9E-B1F6-862703D83368"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "83CE4BF5-8B4F-4169-9449-029E02FCFFA4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8301093A-D4EB-4F68-9015-CED803101F24"
+    },
+    {
+      "class": "group",
+      "id": "88052859-AEE2-4A07-9CD7-53C2CD5C628E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B9027A26-6235-4196-9195-8FF7E4653E2C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A2367DC5-9FDC-49E5-8FDD-394BC2D34313"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7CF173B2-E9F9-41E5-AE97-27B30588E57D"
+    },
+    {
+      "class": "group",
+      "id": "89B20517-8C1F-4E16-B738-72E9AFB3A009"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A55410A3-5C2B-4E93-A479-AAC76574328D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6FB58101-62BB-4C24-9BC1-2BD1C518AD02"
+    },
+    {
+      "class": "group",
+      "id": "1B7379EA-F948-4383-89C5-D670EC73D2F3"
+    }
+  ],
+  "name": "Copacabana, Funchal Map",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

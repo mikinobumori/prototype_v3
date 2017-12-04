@@ -1,0 +1,117 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "FA8BF703-7FD6-429B-950F-DD8525D3709E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 776,
+    "width": 1280,
+    "x": 1392,
+    "y": 16186
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "98E0F82C-4490-4B3B-A861-44B73226B1FD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "04B5D68B-2796-4507-962E-27C60997FDA0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "93805413-2784-45FC-A3A6-7DF16858298B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "99528365-C195-4E2A-B190-1F0A7D225663"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AE9E28A2-D1EA-47B8-9E16-7C587EA0C80C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D96ABECA-D1C3-44D6-B06D-E26D011AC3C5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "56781114-6595-4B4E-B237-3EF6B8179AD5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0BAD87DD-4A94-4976-B9CA-FF5C4215C8B3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "032FADBB-D32C-4807-9196-A4124C2F47C6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6AC3C032-B98A-4FF6-BBA6-8F0B2A6D389C"
+    },
+    {
+      "class": "group",
+      "id": "30AFD842-4752-483F-9CFF-9D0878CDD56C"
+    }
+  ],
+  "name": "Bragados, Santana Map",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

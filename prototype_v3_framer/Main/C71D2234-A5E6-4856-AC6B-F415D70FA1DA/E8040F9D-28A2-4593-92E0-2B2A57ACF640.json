@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "E8040F9D-28A2-4593-92E0-2B2A57ACF640",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 84,
+    "width": 588,
+    "x": 40,
+    "y": 314
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "listActivity",
+  "nameIsFixed": false,
+  "originalObjectID": "3C76A3BD-0E8C-485A-B369-95ACC330114B",
+  "overrides": {
+    "64FBC6C7-2DA9-4F66-8B55-EFCF0D13460C": {
+      "symbolID": ""
+    },
+    "FD94EC77-6791-4CD3-9F14-6DAD2A5801D0": "2"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "7CFD5D1E-A5DD-4F0B-8056-57A05984CE62",
+  "verticalSpacing": 0
+}

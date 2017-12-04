@@ -1,0 +1,157 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "F5B5ED67-E0BC-4EA6-9FDC-B854912C6164",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 776,
+    "width": 1280,
+    "x": 1380,
+    "y": 7184
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "F28E7950-7B14-40BA-A1F4-6DB70EE66740"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "458904AB-9167-45CB-8BB3-BF72833D1515"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "250F7B19-BC93-4313-B203-D80E4E01C053"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E0BE2C7C-841B-48D0-864C-79BD3ACD13DA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F1E5A4A4-A092-436B-8DD1-C53CC57CD392"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "43931111-FE94-4CE9-B799-3A872EAD369B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "03421867-BF78-4195-A770-0F2C70E2C857"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7C7012CD-9901-4443-81FC-2A179FF91B7A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4255D374-C073-4EE7-86CD-EA405F39E366"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A52D1710-27A2-464F-AA7F-3B3C800EDDFD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "48D02B96-7916-4A2A-9C59-CC425DC14DCA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AF977B7D-D322-47C2-B575-C34628880397"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "00AC40E3-44F6-4BA9-9D6E-DDCF4237AEDA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9ECA1839-CC11-436A-911F-EB479A2CEDFB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "83CC2677-044C-4266-8F55-9086D885D94B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ACA5E1B4-D5AA-4EF0-A1C3-57D701054E3F"
+    },
+    {
+      "class": "group",
+      "id": "4F809CDE-90B1-46CA-838C-B07155FF4C3D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4D115B95-11B4-4F06-A67B-BAFC5F4263BA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "03396E5C-532C-4187-8492-3C0604093EFC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0E06E926-0DCB-4659-801D-D44BD59814CD"
+    },
+    {
+      "class": "group",
+      "id": "48E55BF1-A7DA-4AA1-B6FB-5149480361B3"
+    }
+  ],
+  "name": "Funchal Map Downtown",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

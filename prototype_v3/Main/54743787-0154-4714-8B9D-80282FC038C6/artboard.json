@@ -1,0 +1,113 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "54743787-0154-4714-8B9D-80282FC038C6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 776,
+    "width": 1280,
+    "x": 1392,
+    "y": 13614
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "F52CBE66-FC80-46A1-B5D2-76FBCAF71DEB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E9F7890C-3969-49AD-AEFD-0E0D611FBA5F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6411AD9B-EDD6-4BE2-9394-83205EA51863"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "306531B5-BB87-4360-AE18-0A915C197373"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BA14B436-C340-4CE6-9938-C966DF816643"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "64ED38CF-8C94-4FE0-8B11-F6030F1AF4A3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C6786662-1BC7-47D3-AD84-2359A795F4ED"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6036D0C7-4292-4A76-82E3-5FD9E27D98F2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F7F7BBF4-A5BA-4396-8132-F79C3B813AA9"
+    },
+    {
+      "class": "group",
+      "id": "16F6B3CE-1A16-4BB0-8392-3B10E42A653A"
+    }
+  ],
+  "name": "Cristo Rei, Caniço Map",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

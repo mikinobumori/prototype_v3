@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "3CECF7F7-FC76-43FD-B677-0C61756A3819",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 654,
+    "width": 1280,
+    "x": 1,
+    "y": 120
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8A970DDB-761B-4992-B34C-497CEF5D5E20"
+    },
+    {
+      "class": "bitmap",
+      "id": "84B80766-93E7-4213-8064-13F905F7BF1E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "28FF8730-564C-4962-98E3-35052AB6F6E6"
+    }
+  ],
+  "name": "camaraMap",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
